@@ -79,6 +79,16 @@ _G.packer_plugins = {
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["bufferline.nvim"] = {
+    loaded = true,
+    path = "/home/adib/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
+    url = "https://github.com/akinsho/bufferline.nvim"
+  },
+  catppuccin = {
+    loaded = true,
+    path = "/home/adib/.local/share/nvim/site/pack/packer/start/catppuccin",
+    url = "https://github.com/catppuccin/nvim"
+  },
   ["cheeky-snippets.nvim"] = {
     config = { "\27LJ\2\2€\1\0\0\4\0\6\0\t6\0\0\0'\1\1\0B\0\2\0029\1\2\0005\2\4\0005\3\3\0=\3\5\2B\1\2\1K\0\1\0\nlangs\1\0\0\1\0\a\ball\2\bcpp\2\basm\2\18supercollider\2\ncmake\2\rmarkdown\2\blua\2\nsetup\vcheeky\frequire\0" },
     loaded = true,
@@ -159,6 +169,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/nvim-dap-ui",
     url = "https://github.com/rcarriga/nvim-dap-ui"
+  },
+  ["nvim-emmet"] = {
+    loaded = true,
+    path = "/home/adib/.local/share/nvim/site/pack/packer/start/nvim-emmet",
+    url = "https://github.com/olrtg/nvim-emmet"
   },
   ["nvim-lint"] = {
     loaded = true,

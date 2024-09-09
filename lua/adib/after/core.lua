@@ -19,6 +19,7 @@ vim.cmd([[autocmd FileType * set formatoptions-=ro]])
 vim.keymap.set('i', 'jj','<Esc>',{noremap = true})
 vim.keymap.set('n', 'bp',':bprevious<cr>',{ noremap = true})
 vim.keymap.set('n', '<leader>tt',':TagbarToggle<cr>',{ noremap = true})
+ vim.keymap.set({ "n", "v" }, '<leader>xe', require('nvim-emmet').wrap_with_abbreviation)
 vim.keymap.set('n', 'bn',':bnext<cr>',{ noremap = true})
 vim.keymap.set("n", "<leader>e", ":Oil<cr>", {noremap = true})
 vim.o.guicursor = 'n-v-c-sm-i-ci-ve:block,r-cr-o:hor20,a:blinkwait700-blinkoff400-blinkon250-Cursor/lCursor'

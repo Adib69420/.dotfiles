@@ -120,6 +120,9 @@ use{
 use({ 'kepano/flexoki-neovim', as = 'flexoki' })
 use {'nvim-treesitter/nvim-treesitter'}
 use {'preservim/tagbar'}
+use {'akinsho/bufferline.nvim', tag = "*", requires = 'nvim-tree/nvim-web-devicons'}
+use { "catppuccin/nvim", as = "catppuccin" }
+use  "olrtg/nvim-emmet"
 use "EdenEast/nightfox.nvim" -- Packer
 use({
 	"L3MON4D3/LuaSnip",
