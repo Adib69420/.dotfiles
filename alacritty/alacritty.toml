@@ -1,0 +1,94 @@
+general.live_config_reload = true
+
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+opacity = 0.7
+
+[window.padding]
+x = 10 
+y = 10
+
+[font]
+size = 11.5
+
+[font.normal]
+family = "Monaco"
+style = "Regular"
+
+# Oxocarbon Color Scheme for Alacritty in TOML format
+
+# Colors (Kanagawa Dragon)
+# Source https//github.com/rebelot/kanagawa.nvim
+
+# [colors.primary]
+# background = '#181616'
+# foreground = '#c5c9c5'
+
+# [colors.normal]
+# black = '#0d0c0c'
+# blue = '#8ba4b0'
+# cyan = '#8ea4a2'
+# green = '#8a9a7b'
+# magenta = '#a292a3'
+# red = '#c4746e'
+# white = '#C8C093'
+# yellow = '#c4b28a'
+
+# [colors.bright]
+# black = '#a6a69c'
+# blue = '#7FB4CA'
+# cyan = '#7AA89F'
+# green = '#87a987'
+# magenta = '#938AA9'
+# red = '#E46876'
+# white = '#c5c9c5'
+# yellow = '#E6C384'
+
+# [colors.selection]
+# background = '#2d4f67'
+# foreground = '#c8c093'
+
+# [[colors.indexed_colors]]
+# index = 16
+# color = '#ffa066'
+
+# [[colors.indexed_colors]]
+# index = 17
+# color = '#ff5d62'
+
+
+# Upstream: github.com/bluz71/vim-moonfly-colors
+
+[colors.bright]
+black = "#949494"
+blue = "#74b2ff"
+cyan = "#85dc85"
+green = "#36c692"
+magenta = "#ae81ff"
+red = "#ff5189"
+white = "#e4e4e4"
+yellow = "#c6c684"
+
+[colors.cursor]
+cursor = "#8e8e8e"
+text = "#080808"
+
+[colors.normal]
+black = "#323437"
+blue = "#80a0ff"
+cyan = "#79dac8"
+green = "#8cc85f"
+magenta = "#cf87e8"
+red = "#ff5454"
+white = "#c6c6c6"
+yellow = "#e3c78a"
+
+[colors.primary]
+background = "#080808"
+bright_foreground = "#eeeeee"
+foreground = "#bdbdbd"
+
+[colors.selection]
+background = "#b2ceee"
+text = "#080808"
