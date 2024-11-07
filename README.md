@@ -1,5 +1,4 @@
-# Neovim Config
-A minimalist Competetive Programming friendly Neovim Config. 
+A very simple and easy dotfile setup for arch linux
 ```
-	git clone 'https://github.com/shineki-shinx/.dotfiles'
+    git clone 'https://github.com/shineki-shinx/.dotfiles.git'
 ```
