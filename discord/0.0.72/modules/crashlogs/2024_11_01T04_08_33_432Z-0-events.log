@@ -1,0 +1,16 @@
+2024-11-01T04:08:33.434Z 0: 
+
+----------------------------------------------
+2024-11-01T04:08:33.473Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.72"}, modulepath: /home/adib/.config/discord/0.0.72/modules
+2024-11-01T04:08:33.506Z 2: ✅ webContents.created web1 "index.html"
+2024-11-01T04:08:33.540Z 3: ✅ window.created win1 "discord"
+2024-11-01T04:08:33.905Z 4: ✅ webContents.did-finish-load web1
+2024-11-01T04:09:19.317Z 5: ✅ webContents.created web2 ""
+2024-11-01T04:09:19.340Z 6: ✅ window.created win2 "Discord"
+2024-11-01T04:09:22.183Z 7: ✅ webContents.did-finish-load web2
+2024-11-01T04:09:22.283Z 8: window.close win1
+2024-11-01T04:09:22.308Z 9: webContents.destroyed web1
+2024-11-01T04:09:22.342Z 10: window.closed win1
+2024-11-01T04:13:32.790Z 11: window.close win2
+2024-11-01T09:09:55.668Z 12: before-quit
+2024-11-01T09:09:55.715Z 13: window.close win2

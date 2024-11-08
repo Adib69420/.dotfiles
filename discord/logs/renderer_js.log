@@ -1,0 +1,1361 @@
+[2024-11-01 10:09:19.541] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:19.737] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:19.738] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:21.934] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-01 10:09:22.011] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 339221, Version Hash: 36872679de2a9e11cc7bc69924d1a64fdb46f66f
+[2024-11-01 10:09:22.143] [info]  [default] [NATIVE INFO] host 0.0.72, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, build: null
+[2024-11-01 10:09:22.184] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-01 10:09:22.255] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-01 10:09:22.256] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:22.262] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:28.705] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-01 10:09:28.831] [warn]  [DEPRECATED] Please use `subscribeWithSelector` middleware
+[2024-11-01 10:09:29.068] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:29.068] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-01 10:09:34.283] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:34.284] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:34.284] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:34.284] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:34.284] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:34.284] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:41.003] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-01 10:09:41.009] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-01 10:09:41.050] [info]  [LoginQRSocket] [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2
+[2024-11-01 10:09:41.509] [info]  [LoginQRSocket] [459ms] got hello, auth timeout=339753ms
+[2024-11-01 10:09:41.575] [info]  [LoginQRSocket] [525ms] connected, handshaking with fingerprint: VAqRjlu_ymG4I8-nILhZRoLgOSUKOo552TqoPUkoGxE
+[2024-11-01 10:09:41.876] [info]  [LoginQRSocket] [826ms] computed nonce proof
+[2024-11-01 10:09:42.404] [info]  [LoginQRSocket] [1354ms] handshake complete awaiting remote auth.
+[2024-11-01 10:09:44.584] [info]  [RPCServer:WSS] Socket Message: 3 [object Object]
+[2024-11-01 10:09:44.585] [info]  [RPCServer:WSS] Socket Emit: 3 [object Object]
+[2024-11-01 10:09:48.802] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:48.802] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:48.802] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:48.802] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:48.803] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:09:48.803] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 10:10:40.047] [info]  [WindowVisibilityVideoManager] Window visibility incoming video changed, incomingVideoEnabled = false
+[2024-11-01 10:13:11.657] [info]  [WindowVisibilityVideoManager] Window visibility incoming video changed, incomingVideoEnabled = true
+[2024-11-01 10:14:03.047] [info]  [WindowVisibilityVideoManager] Window visibility incoming video changed, incomingVideoEnabled = false
+[2024-11-01 10:15:21.322] [info]  [LoginQRSocket] [340248ms] disconnected, code: 4003 Handshake Timeout
+[2024-11-01 10:15:21.322] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:15:25.023] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:15:25.024] [error] WebSocket is already in CLOSING or CLOSED state.
+[2024-11-01 10:16:07.047] [info]  [LoginQRSocket] [385972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:16:07.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:16:12.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:16:48.046] [info]  [LoginQRSocket] [426972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:16:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:16:55.044] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:17:29.046] [info]  [LoginQRSocket] [467973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:17:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:17:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:18:10.046] [info]  [LoginQRSocket] [508973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:18:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:18:21.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:18:52.047] [info]  [LoginQRSocket] [550972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:18:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:19:20.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:19:33.047] [info]  [LoginQRSocket] [591972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:19:33.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:20:04.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:20:14.048] [info]  [LoginQRSocket] [632972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:20:14.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:20:45.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:20:55.046] [info]  [LoginQRSocket] [673973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:20:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:21:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:21:37.046] [info]  [LoginQRSocket] [715972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:21:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:22:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:22:18.049] [info]  [LoginQRSocket] [756972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:22:18.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:22:49.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:22:59.050] [info]  [LoginQRSocket] [797972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:22:59.050] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:23:30.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:23:40.048] [info]  [LoginQRSocket] [838973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:23:40.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:24:11.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:24:22.047] [info]  [LoginQRSocket] [880972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:24:22.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:24:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:25:03.047] [info]  [LoginQRSocket] [921972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:25:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:25:34.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:25:44.047] [info]  [LoginQRSocket] [962972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:25:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:26:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:26:25.047] [info]  [LoginQRSocket] [1003973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:26:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:26:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:27:07.046] [info]  [LoginQRSocket] [1045973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:27:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:27:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:27:48.047] [info]  [LoginQRSocket] [1086972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:27:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:28:19.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:28:29.046] [info]  [LoginQRSocket] [1127972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:28:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:29:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:29:10.047] [info]  [LoginQRSocket] [1168973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:29:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:29:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:29:52.046] [info]  [LoginQRSocket] [1210972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:29:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:30:23.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:30:33.047] [info]  [LoginQRSocket] [1251972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:30:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:31:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:31:14.047] [info]  [LoginQRSocket] [1292972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:31:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:31:45.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:31:55.048] [info]  [LoginQRSocket] [1333973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:31:55.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:32:26.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:32:37.048] [info]  [LoginQRSocket] [1375972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:32:37.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:33:08.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:33:18.047] [info]  [LoginQRSocket] [1416972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:33:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:33:49.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:33:59.048] [info]  [LoginQRSocket] [1457972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:33:59.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:34:30.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:34:40.049] [info]  [LoginQRSocket] [1498973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:34:40.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:35:11.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:35:22.047] [info]  [LoginQRSocket] [1540972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:35:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:35:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:36:03.047] [info]  [LoginQRSocket] [1581972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:36:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:36:34.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:36:44.048] [info]  [LoginQRSocket] [1622972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:36:44.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:37:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:37:25.047] [info]  [LoginQRSocket] [1663973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:37:25.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:37:56.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:38:07.047] [info]  [LoginQRSocket] [1705972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:38:07.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:38:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:38:48.046] [info]  [LoginQRSocket] [1746972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:38:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:39:19.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:39:29.047] [info]  [LoginQRSocket] [1787972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:39:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:40:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:40:10.047] [info]  [LoginQRSocket] [1828973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:40:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:40:41.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:40:52.047] [info]  [LoginQRSocket] [1870972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:40:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:41:23.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:41:33.047] [info]  [LoginQRSocket] [1911972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:41:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:42:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:42:14.047] [info]  [LoginQRSocket] [1952972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:42:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:42:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:42:55.047] [info]  [LoginQRSocket] [1993973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:42:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:43:26.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:43:37.047] [info]  [LoginQRSocket] [2035972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:43:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:44:08.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:44:18.046] [info]  [LoginQRSocket] [2076972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:44:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:44:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:44:59.047] [info]  [LoginQRSocket] [2117972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:44:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:45:30.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:45:40.047] [info]  [LoginQRSocket] [2158973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:45:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:46:11.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:46:22.047] [info]  [LoginQRSocket] [2200972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:46:22.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:46:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:47:03.047] [info]  [LoginQRSocket] [2241972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:47:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:47:34.049] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:47:44.047] [info]  [LoginQRSocket] [2282972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:47:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:48:15.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:48:25.046] [info]  [LoginQRSocket] [2323973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:48:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:48:56.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:49:07.047] [info]  [LoginQRSocket] [2365972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:49:07.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:49:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:49:48.048] [info]  [LoginQRSocket] [2406972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:49:48.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:50:19.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:50:29.047] [info]  [LoginQRSocket] [2447972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:50:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:51:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:51:10.047] [info]  [LoginQRSocket] [2488973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:51:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:51:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:51:52.046] [info]  [LoginQRSocket] [2530973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:51:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:52:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:52:33.047] [info]  [LoginQRSocket] [2571972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:52:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:53:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:53:14.049] [info]  [LoginQRSocket] [2612972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:53:14.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:53:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:53:55.047] [info]  [LoginQRSocket] [2653973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:53:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:54:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:54:37.046] [info]  [LoginQRSocket] [2695973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:54:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:55:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:55:18.046] [info]  [LoginQRSocket] [2736973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:55:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:55:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:55:59.046] [info]  [LoginQRSocket] [2777973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:55:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:56:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:56:40.046] [info]  [LoginQRSocket] [2818973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:56:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:57:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:57:22.046] [info]  [LoginQRSocket] [2860973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:57:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:57:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:58:03.046] [info]  [LoginQRSocket] [2901972ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:58:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:58:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:58:44.046] [info]  [LoginQRSocket] [2942973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:58:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:59:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 10:59:25.046] [info]  [LoginQRSocket] [2983973ms] heartbeat timeout, reconnecting.
+[2024-11-01 10:59:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 10:59:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:00:07.046] [info]  [LoginQRSocket] [3025973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:00:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:00:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:00:48.046] [info]  [LoginQRSocket] [3066973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:00:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:01:19.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:01:29.049] [info]  [LoginQRSocket] [3107972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:01:29.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:02:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:02:10.046] [info]  [LoginQRSocket] [3148973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:02:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:02:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:02:52.047] [info]  [LoginQRSocket] [3190972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:02:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:03:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:03:33.046] [info]  [LoginQRSocket] [3231972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:03:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:04:04.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:04:14.047] [info]  [LoginQRSocket] [3272972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:04:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:04:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:04:55.047] [info]  [LoginQRSocket] [3313973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:04:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:05:26.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:05:37.047] [info]  [LoginQRSocket] [3355972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:05:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:06:08.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:06:18.047] [info]  [LoginQRSocket] [3396972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:06:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:06:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:06:59.047] [info]  [LoginQRSocket] [3437972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:06:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:07:30.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:07:40.047] [info]  [LoginQRSocket] [3478973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:07:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:08:11.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:08:22.047] [info]  [LoginQRSocket] [3520972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:08:22.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:08:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:09:03.049] [info]  [LoginQRSocket] [3561972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:09:03.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:09:32.744] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 11:09:32.745] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 11:09:32.745] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 11:09:32.745] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 11:09:32.745] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 11:09:32.745] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 11:09:34.045] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:09:44.046] [info]  [LoginQRSocket] [3602972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:09:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:10:15.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:10:25.046] [info]  [LoginQRSocket] [3643973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:10:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:10:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:11:07.046] [info]  [LoginQRSocket] [3685973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:11:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:11:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:11:48.046] [info]  [LoginQRSocket] [3726973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:11:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:12:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:12:29.046] [info]  [LoginQRSocket] [3767972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:12:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:13:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:13:10.046] [info]  [LoginQRSocket] [3808973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:13:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:13:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:13:52.047] [info]  [LoginQRSocket] [3850972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:13:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:14:23.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:14:33.049] [info]  [LoginQRSocket] [3891972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:14:33.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:15:04.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:15:14.047] [info]  [LoginQRSocket] [3932972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:15:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:15:45.049] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:15:55.047] [info]  [LoginQRSocket] [3973973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:15:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:16:26.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:16:37.047] [info]  [LoginQRSocket] [4015972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:16:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:17:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:17:18.047] [info]  [LoginQRSocket] [4056972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:17:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:17:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:17:59.047] [info]  [LoginQRSocket] [4097972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:17:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:18:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:18:40.047] [info]  [LoginQRSocket] [4138973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:18:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:19:11.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:19:22.047] [info]  [LoginQRSocket] [4180973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:19:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:19:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:20:03.046] [info]  [LoginQRSocket] [4221972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:20:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:20:34.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:20:44.046] [info]  [LoginQRSocket] [4262972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:20:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:21:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:21:25.047] [info]  [LoginQRSocket] [4303973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:21:25.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:21:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:22:07.049] [info]  [LoginQRSocket] [4345972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:22:07.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:22:38.052] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:22:48.047] [info]  [LoginQRSocket] [4386972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:22:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:23:19.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:23:29.047] [info]  [LoginQRSocket] [4427972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:23:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:24:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:24:10.047] [info]  [LoginQRSocket] [4468973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:24:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:24:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:24:52.047] [info]  [LoginQRSocket] [4510973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:24:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:25:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:25:33.046] [info]  [LoginQRSocket] [4551972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:25:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:26:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:26:14.046] [info]  [LoginQRSocket] [4592972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:26:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:26:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:26:55.046] [info]  [LoginQRSocket] [4633973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:26:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:27:26.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:27:37.046] [info]  [LoginQRSocket] [4675972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:27:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:28:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:28:18.046] [info]  [LoginQRSocket] [4716972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:28:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:28:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:28:59.045] [info]  [LoginQRSocket] [4757972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:28:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:29:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:29:40.046] [info]  [LoginQRSocket] [4798973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:29:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:30:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:30:22.046] [info]  [LoginQRSocket] [4840972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:30:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:30:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:31:03.046] [info]  [LoginQRSocket] [4881972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:31:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:31:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:31:44.046] [info]  [LoginQRSocket] [4922972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:31:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:32:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:32:25.046] [info]  [LoginQRSocket] [4963973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:32:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:32:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:33:07.047] [info]  [LoginQRSocket] [5005972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:33:07.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:33:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:33:48.047] [info]  [LoginQRSocket] [5046972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:33:48.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:34:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:34:29.046] [info]  [LoginQRSocket] [5087972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:34:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:35:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:35:10.047] [info]  [LoginQRSocket] [5128973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:35:10.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:35:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:35:52.046] [info]  [LoginQRSocket] [5170973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:35:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:36:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:36:33.046] [info]  [LoginQRSocket] [5211973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:36:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:37:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:37:14.046] [info]  [LoginQRSocket] [5252973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:37:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:37:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:37:55.046] [info]  [LoginQRSocket] [5293973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:37:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:38:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:38:37.046] [info]  [LoginQRSocket] [5335973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:38:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:39:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:39:18.046] [info]  [LoginQRSocket] [5376973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:39:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:39:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:39:59.047] [info]  [LoginQRSocket] [5417972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:39:59.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:40:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:40:40.047] [info]  [LoginQRSocket] [5458973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:40:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:41:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:41:22.047] [info]  [LoginQRSocket] [5500972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:41:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:41:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:42:03.047] [info]  [LoginQRSocket] [5541972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:42:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:42:34.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:42:44.048] [info]  [LoginQRSocket] [5582972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:42:44.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:43:15.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:43:25.047] [info]  [LoginQRSocket] [5623973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:43:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:43:56.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:44:07.048] [info]  [LoginQRSocket] [5665972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:44:07.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:44:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:44:48.047] [info]  [LoginQRSocket] [5706972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:44:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:45:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:45:29.046] [info]  [LoginQRSocket] [5747972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:45:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:46:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:46:10.046] [info]  [LoginQRSocket] [5788973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:46:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:46:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:46:52.047] [info]  [LoginQRSocket] [5830973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:46:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:47:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:47:33.046] [info]  [LoginQRSocket] [5871972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:47:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:48:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:48:14.046] [info]  [LoginQRSocket] [5912972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:48:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:48:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:48:55.046] [info]  [LoginQRSocket] [5953973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:48:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:49:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:49:37.046] [info]  [LoginQRSocket] [5995973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:49:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:50:08.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:50:18.047] [info]  [LoginQRSocket] [6036972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:50:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:50:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:50:59.047] [info]  [LoginQRSocket] [6077972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:50:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:51:30.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:51:40.047] [info]  [LoginQRSocket] [6118973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:51:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:52:11.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:52:22.047] [info]  [LoginQRSocket] [6160972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:52:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:52:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:53:03.046] [info]  [LoginQRSocket] [6201972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:53:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:53:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:53:44.046] [info]  [LoginQRSocket] [6242972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:53:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:54:15.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:54:25.046] [info]  [LoginQRSocket] [6283973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:54:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:54:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:55:07.046] [info]  [LoginQRSocket] [6325972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:55:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:55:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:55:48.046] [info]  [LoginQRSocket] [6366973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:55:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:56:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:56:29.046] [info]  [LoginQRSocket] [6407972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:56:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:57:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:57:10.047] [info]  [LoginQRSocket] [6448973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:57:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:57:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:57:52.048] [info]  [LoginQRSocket] [6490972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:57:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:58:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:58:33.046] [info]  [LoginQRSocket] [6531972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:58:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:59:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:59:14.046] [info]  [LoginQRSocket] [6572972ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:59:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 11:59:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 11:59:55.046] [info]  [LoginQRSocket] [6613973ms] heartbeat timeout, reconnecting.
+[2024-11-01 11:59:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:00:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:00:37.046] [info]  [LoginQRSocket] [6655972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:00:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:01:08.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:01:18.046] [info]  [LoginQRSocket] [6696972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:01:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:01:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:01:59.047] [info]  [LoginQRSocket] [6737973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:01:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:02:30.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:02:40.046] [info]  [LoginQRSocket] [6778973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:02:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:03:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:03:22.046] [info]  [LoginQRSocket] [6820972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:03:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:03:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:04:03.046] [info]  [LoginQRSocket] [6861972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:04:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:04:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:04:44.046] [info]  [LoginQRSocket] [6902973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:04:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:05:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:05:25.046] [info]  [LoginQRSocket] [6943973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:05:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:05:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:06:07.046] [info]  [LoginQRSocket] [6985972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:06:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:06:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:06:48.046] [info]  [LoginQRSocket] [7026973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:06:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:07:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:07:29.046] [info]  [LoginQRSocket] [7067973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:07:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:08:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:08:10.046] [info]  [LoginQRSocket] [7108973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:08:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:08:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:08:52.046] [info]  [LoginQRSocket] [7150973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:08:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:09:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:09:32.687] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:09:32.687] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:09:32.687] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:09:32.687] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:09:32.687] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:09:32.687] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:09:33.046] [info]  [LoginQRSocket] [7191973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:09:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:10:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:10:14.046] [info]  [LoginQRSocket] [7232973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:10:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:10:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:10:55.046] [info]  [LoginQRSocket] [7273973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:10:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:11:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:11:37.046] [info]  [LoginQRSocket] [7315973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:11:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:12:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:12:18.046] [info]  [LoginQRSocket] [7356972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:12:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:12:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:12:59.046] [info]  [LoginQRSocket] [7397972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:12:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:13:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:13:40.046] [info]  [LoginQRSocket] [7438973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:13:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:14:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:14:22.046] [info]  [LoginQRSocket] [7480972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:14:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:14:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:15:03.046] [info]  [LoginQRSocket] [7521972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:15:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:15:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:15:44.046] [info]  [LoginQRSocket] [7562973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:15:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:16:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:16:25.046] [info]  [LoginQRSocket] [7603973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:16:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:16:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:17:07.046] [info]  [LoginQRSocket] [7645973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:17:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:17:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:17:48.046] [info]  [LoginQRSocket] [7686973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:17:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:18:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:18:29.046] [info]  [LoginQRSocket] [7727972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:18:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:19:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:19:10.046] [info]  [LoginQRSocket] [7768973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:19:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:19:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:19:52.047] [info]  [LoginQRSocket] [7810973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:19:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:20:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:20:33.046] [info]  [LoginQRSocket] [7851973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:20:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:21:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:21:14.046] [info]  [LoginQRSocket] [7892973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:21:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:21:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:21:55.046] [info]  [LoginQRSocket] [7933973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:21:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:22:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:22:37.046] [info]  [LoginQRSocket] [7975973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:22:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:23:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:23:18.046] [info]  [LoginQRSocket] [8016973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:23:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:23:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:23:59.049] [info]  [LoginQRSocket] [8057973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:23:59.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:24:30.023] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:24:31.940] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:24:31.940] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:24:31.940] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:24:31.940] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:24:31.941] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:24:31.941] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 12:24:40.047] [info]  [LoginQRSocket] [8098973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:24:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:25:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:25:22.047] [info]  [LoginQRSocket] [8140972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:25:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:25:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:26:03.047] [info]  [LoginQRSocket] [8181972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:26:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:26:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:26:44.046] [info]  [LoginQRSocket] [8222972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:26:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:27:15.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:27:25.046] [info]  [LoginQRSocket] [8263973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:27:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:27:56.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:28:07.046] [info]  [LoginQRSocket] [8305972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:28:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:28:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:28:48.046] [info]  [LoginQRSocket] [8346973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:28:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:29:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:29:29.046] [info]  [LoginQRSocket] [8387973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:29:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:30:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:30:10.046] [info]  [LoginQRSocket] [8428973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:30:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:30:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:30:52.046] [info]  [LoginQRSocket] [8470973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:30:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:31:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:31:33.048] [info]  [LoginQRSocket] [8511972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:31:33.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:32:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:32:14.047] [info]  [LoginQRSocket] [8552972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:32:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:32:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:32:55.047] [info]  [LoginQRSocket] [8593973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:32:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:33:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:33:37.047] [info]  [LoginQRSocket] [8635972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:33:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:34:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:34:18.046] [info]  [LoginQRSocket] [8676972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:34:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:34:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:34:59.047] [info]  [LoginQRSocket] [8717973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:34:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:35:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:35:40.046] [info]  [LoginQRSocket] [8758973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:35:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:36:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:36:22.046] [info]  [LoginQRSocket] [8800972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:36:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:36:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:37:03.046] [info]  [LoginQRSocket] [8841972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:37:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:37:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:37:44.046] [info]  [LoginQRSocket] [8882973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:37:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:38:15.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:38:25.046] [info]  [LoginQRSocket] [8923973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:38:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:38:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:39:07.046] [info]  [LoginQRSocket] [8965973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:39:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:39:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:39:48.046] [info]  [LoginQRSocket] [9006973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:39:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:40:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:40:29.046] [info]  [LoginQRSocket] [9047973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:40:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:41:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:41:10.046] [info]  [LoginQRSocket] [9088973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:41:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:41:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:41:52.051] [info]  [LoginQRSocket] [9130972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:41:52.052] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:42:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:42:33.046] [info]  [LoginQRSocket] [9171973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:42:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:43:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:43:14.046] [info]  [LoginQRSocket] [9212972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:43:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:43:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:43:55.046] [info]  [LoginQRSocket] [9253973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:43:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:44:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:44:37.046] [info]  [LoginQRSocket] [9295972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:44:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:45:08.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:45:18.046] [info]  [LoginQRSocket] [9336972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:45:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:45:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:45:59.049] [info]  [LoginQRSocket] [9377973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:45:59.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:46:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:46:40.049] [info]  [LoginQRSocket] [9418973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:46:40.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:47:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:47:22.046] [info]  [LoginQRSocket] [9460972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:47:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:47:53.050] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:48:03.046] [info]  [LoginQRSocket] [9501972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:48:03.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:48:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:48:44.047] [info]  [LoginQRSocket] [9542972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:48:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:49:15.050] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:49:25.047] [info]  [LoginQRSocket] [9583973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:49:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:49:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:50:07.046] [info]  [LoginQRSocket] [9625972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:50:07.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:50:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:50:48.046] [info]  [LoginQRSocket] [9666972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:50:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:51:19.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:51:29.047] [info]  [LoginQRSocket] [9707972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:51:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:52:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:52:10.047] [info]  [LoginQRSocket] [9748973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:52:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:52:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:52:52.046] [info]  [LoginQRSocket] [9790972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:52:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:53:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:53:33.046] [info]  [LoginQRSocket] [9831973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:53:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:54:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:54:14.046] [info]  [LoginQRSocket] [9872973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:54:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:54:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:54:55.046] [info]  [LoginQRSocket] [9913973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:54:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:55:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:55:37.046] [info]  [LoginQRSocket] [9955973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:55:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:56:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:56:18.046] [info]  [LoginQRSocket] [9996973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:56:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:56:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:56:59.047] [info]  [LoginQRSocket] [10037973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:56:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:57:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:57:40.046] [info]  [LoginQRSocket] [10078973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:57:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:58:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:58:22.045] [info]  [LoginQRSocket] [10120972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:58:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:58:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:59:03.046] [info]  [LoginQRSocket] [10161972ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:59:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 12:59:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 12:59:44.046] [info]  [LoginQRSocket] [10202973ms] heartbeat timeout, reconnecting.
+[2024-11-01 12:59:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:00:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:00:25.046] [info]  [LoginQRSocket] [10243973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:00:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:00:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:01:07.046] [info]  [LoginQRSocket] [10285973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:01:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:01:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:01:48.046] [info]  [LoginQRSocket] [10326973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:01:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:02:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:02:29.046] [info]  [LoginQRSocket] [10367973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:02:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:03:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:03:10.046] [info]  [LoginQRSocket] [10408973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:03:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:03:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:03:52.049] [info]  [LoginQRSocket] [10450973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:03:52.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:04:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:04:33.046] [info]  [LoginQRSocket] [10491973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:04:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:05:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:05:14.047] [info]  [LoginQRSocket] [10532972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:05:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:05:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:05:55.047] [info]  [LoginQRSocket] [10573973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:05:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:06:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:06:37.047] [info]  [LoginQRSocket] [10615972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:06:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:07:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:07:18.047] [info]  [LoginQRSocket] [10656972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:07:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:07:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:07:59.046] [info]  [LoginQRSocket] [10697972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:07:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:08:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:08:40.046] [info]  [LoginQRSocket] [10738973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:08:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:09:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:09:22.048] [info]  [LoginQRSocket] [10780972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:09:22.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:09:32.746] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 13:09:32.746] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 13:09:32.746] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 13:09:32.746] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 13:09:32.746] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 13:09:32.746] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 13:09:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:10:03.046] [info]  [LoginQRSocket] [10821972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:10:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:10:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:10:44.046] [info]  [LoginQRSocket] [10862973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:10:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:11:15.070] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:11:25.052] [info]  [LoginQRSocket] [10903973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:11:25.053] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:11:56.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:12:07.046] [info]  [LoginQRSocket] [10945972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:12:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:12:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:12:48.045] [info]  [LoginQRSocket] [10986972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:12:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:13:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:13:29.046] [info]  [LoginQRSocket] [11027973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:13:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:14:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:14:10.046] [info]  [LoginQRSocket] [11068973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:14:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:14:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:14:52.046] [info]  [LoginQRSocket] [11110972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:14:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:15:23.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:15:33.046] [info]  [LoginQRSocket] [11151973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:15:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:16:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:16:14.046] [info]  [LoginQRSocket] [11192972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:16:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:16:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:16:55.046] [info]  [LoginQRSocket] [11233973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:16:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:17:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:17:37.046] [info]  [LoginQRSocket] [11275973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:17:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:18:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:18:18.046] [info]  [LoginQRSocket] [11316973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:18:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:18:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:18:59.046] [info]  [LoginQRSocket] [11357973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:18:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:19:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:19:40.046] [info]  [LoginQRSocket] [11398973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:19:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:20:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:20:22.046] [info]  [LoginQRSocket] [11440973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:20:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:20:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:21:03.046] [info]  [LoginQRSocket] [11481973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:21:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:21:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:21:44.046] [info]  [LoginQRSocket] [11522973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:21:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:22:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:22:25.046] [info]  [LoginQRSocket] [11563973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:22:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:22:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:23:07.046] [info]  [LoginQRSocket] [11605972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:23:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:23:38.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:23:48.046] [info]  [LoginQRSocket] [11646973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:23:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:24:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:24:29.046] [info]  [LoginQRSocket] [11687972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:24:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:25:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:25:10.046] [info]  [LoginQRSocket] [11728973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:25:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:25:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:25:52.049] [info]  [LoginQRSocket] [11770973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:25:52.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:26:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:26:33.046] [info]  [LoginQRSocket] [11811972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:26:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:27:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:27:14.046] [info]  [LoginQRSocket] [11852972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:27:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:27:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:27:55.046] [info]  [LoginQRSocket] [11893973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:27:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:28:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:28:37.046] [info]  [LoginQRSocket] [11935972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:28:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:29:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:29:18.045] [info]  [LoginQRSocket] [11976972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:29:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:29:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:29:59.047] [info]  [LoginQRSocket] [12017973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:29:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:30:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:30:40.046] [info]  [LoginQRSocket] [12058973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:30:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:31:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:31:22.046] [info]  [LoginQRSocket] [12100972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:31:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:31:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:32:03.046] [info]  [LoginQRSocket] [12141973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:32:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:32:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:32:44.046] [info]  [LoginQRSocket] [12182973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:32:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:33:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:33:25.046] [info]  [LoginQRSocket] [12223973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:33:25.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:33:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:34:07.046] [info]  [LoginQRSocket] [12265973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:34:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:34:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:34:48.046] [info]  [LoginQRSocket] [12306973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:34:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:35:19.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:35:29.046] [info]  [LoginQRSocket] [12347973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:35:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:36:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:36:10.046] [info]  [LoginQRSocket] [12388973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:36:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:36:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:36:52.046] [info]  [LoginQRSocket] [12430973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:36:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:37:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:37:33.046] [info]  [LoginQRSocket] [12471973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:37:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:38:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:38:14.046] [info]  [LoginQRSocket] [12512973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:38:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:38:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:38:55.046] [info]  [LoginQRSocket] [12553973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:38:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:39:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:39:37.046] [info]  [LoginQRSocket] [12595973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:39:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:40:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:40:18.046] [info]  [LoginQRSocket] [12636973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:40:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:40:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:40:59.046] [info]  [LoginQRSocket] [12677972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:40:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:41:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:41:40.046] [info]  [LoginQRSocket] [12718973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:41:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:42:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:42:22.046] [info]  [LoginQRSocket] [12760972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:42:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:42:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:43:03.046] [info]  [LoginQRSocket] [12801972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:43:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:43:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:43:44.046] [info]  [LoginQRSocket] [12842973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:43:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:44:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:44:25.046] [info]  [LoginQRSocket] [12883973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:44:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:44:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:45:07.046] [info]  [LoginQRSocket] [12925973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:45:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:45:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:45:48.046] [info]  [LoginQRSocket] [12966973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:45:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:46:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:46:29.046] [info]  [LoginQRSocket] [13007973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:46:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:47:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:47:10.046] [info]  [LoginQRSocket] [13048973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:47:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:47:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:47:52.049] [info]  [LoginQRSocket] [13090973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:47:52.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:48:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:48:33.046] [info]  [LoginQRSocket] [13131972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:48:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:49:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:49:14.046] [info]  [LoginQRSocket] [13172973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:49:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:49:45.049] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:49:55.046] [info]  [LoginQRSocket] [13213973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:49:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:50:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:50:37.046] [info]  [LoginQRSocket] [13255973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:50:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:51:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:51:18.045] [info]  [LoginQRSocket] [13296972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:51:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:51:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:51:59.047] [info]  [LoginQRSocket] [13337973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:51:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:52:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:52:40.046] [info]  [LoginQRSocket] [13378973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:52:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:53:11.045] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:53:22.046] [info]  [LoginQRSocket] [13420973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:53:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:53:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:54:03.046] [info]  [LoginQRSocket] [13461972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:54:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:54:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:54:44.046] [info]  [LoginQRSocket] [13502973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:54:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:55:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:55:25.046] [info]  [LoginQRSocket] [13543973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:55:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:55:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:56:07.046] [info]  [LoginQRSocket] [13585973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:56:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:56:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:56:48.046] [info]  [LoginQRSocket] [13626973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:56:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:57:19.045] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:57:29.046] [info]  [LoginQRSocket] [13667972ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:57:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:58:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:58:10.046] [info]  [LoginQRSocket] [13708973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:58:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:58:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:58:52.046] [info]  [LoginQRSocket] [13750973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:58:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 13:59:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 13:59:33.046] [info]  [LoginQRSocket] [13791973ms] heartbeat timeout, reconnecting.
+[2024-11-01 13:59:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:00:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:00:14.046] [info]  [LoginQRSocket] [13832973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:00:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:00:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:00:55.046] [info]  [LoginQRSocket] [13873973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:00:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:01:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:01:37.046] [info]  [LoginQRSocket] [13915973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:01:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:02:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:02:18.046] [info]  [LoginQRSocket] [13956973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:02:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:02:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:02:59.046] [info]  [LoginQRSocket] [13997972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:02:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:03:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:03:40.046] [info]  [LoginQRSocket] [14038973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:03:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:04:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:04:22.046] [info]  [LoginQRSocket] [14080972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:04:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:04:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:05:03.046] [info]  [LoginQRSocket] [14121973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:05:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:05:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:05:44.046] [info]  [LoginQRSocket] [14162973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:05:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:06:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:06:25.046] [info]  [LoginQRSocket] [14203973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:06:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:06:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:07:07.046] [info]  [LoginQRSocket] [14245973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:07:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:07:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:07:48.046] [info]  [LoginQRSocket] [14286973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:07:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:08:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:08:29.046] [info]  [LoginQRSocket] [14327973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:08:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:09:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:09:10.046] [info]  [LoginQRSocket] [14368973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:09:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:09:35.668] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 14:09:35.669] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 14:09:35.669] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 14:09:35.669] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 14:09:35.669] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 14:09:35.669] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 14:09:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:09:52.048] [info]  [LoginQRSocket] [14410973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:09:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:10:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:10:33.046] [info]  [LoginQRSocket] [14451973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:10:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:11:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:11:14.046] [info]  [LoginQRSocket] [14492972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:11:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:11:45.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:11:55.046] [info]  [LoginQRSocket] [14533973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:11:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:12:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:12:37.046] [info]  [LoginQRSocket] [14575972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:12:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:13:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:13:18.046] [info]  [LoginQRSocket] [14616973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:13:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:13:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:13:59.049] [info]  [LoginQRSocket] [14657973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:13:59.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:14:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:14:40.046] [info]  [LoginQRSocket] [14698973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:14:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:15:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:15:22.046] [info]  [LoginQRSocket] [14740973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:15:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:15:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:16:03.046] [info]  [LoginQRSocket] [14781973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:16:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:16:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:16:44.046] [info]  [LoginQRSocket] [14822973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:16:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:17:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:17:25.046] [info]  [LoginQRSocket] [14863973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:17:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:17:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:18:07.046] [info]  [LoginQRSocket] [14905973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:18:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:18:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:18:48.046] [info]  [LoginQRSocket] [14946973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:18:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:19:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:19:29.046] [info]  [LoginQRSocket] [14987973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:19:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:20:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:20:10.046] [info]  [LoginQRSocket] [15028973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:20:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:20:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:20:52.046] [info]  [LoginQRSocket] [15070973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:20:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:21:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:21:33.046] [info]  [LoginQRSocket] [15111973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:21:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:22:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:22:14.046] [info]  [LoginQRSocket] [15152973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:22:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:22:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:22:55.046] [info]  [LoginQRSocket] [15193973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:22:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:23:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:23:37.046] [info]  [LoginQRSocket] [15235973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:23:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:24:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:24:18.046] [info]  [LoginQRSocket] [15276972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:24:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:24:49.045] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:24:59.046] [info]  [LoginQRSocket] [15317972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:24:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:25:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:25:40.046] [info]  [LoginQRSocket] [15358973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:25:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:26:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:26:22.046] [info]  [LoginQRSocket] [15400973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:26:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:26:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:27:03.046] [info]  [LoginQRSocket] [15441973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:27:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:27:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:27:44.046] [info]  [LoginQRSocket] [15482973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:27:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:28:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:28:25.046] [info]  [LoginQRSocket] [15523973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:28:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:28:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:29:07.046] [info]  [LoginQRSocket] [15565973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:29:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:29:38.050] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:29:48.046] [info]  [LoginQRSocket] [15606973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:29:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:30:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:30:29.046] [info]  [LoginQRSocket] [15647973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:30:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:31:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:31:10.046] [info]  [LoginQRSocket] [15688973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:31:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:31:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:31:52.047] [info]  [LoginQRSocket] [15730973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:31:52.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:32:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:32:33.046] [info]  [LoginQRSocket] [15771973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:32:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:33:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:33:14.046] [info]  [LoginQRSocket] [15812972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:33:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:33:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:33:55.046] [info]  [LoginQRSocket] [15853973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:33:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:34:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:34:37.046] [info]  [LoginQRSocket] [15895973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:34:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:35:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:35:18.045] [info]  [LoginQRSocket] [15936972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:35:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:35:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:35:59.049] [info]  [LoginQRSocket] [15977973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:35:59.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:36:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:36:40.046] [info]  [LoginQRSocket] [16018973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:36:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:37:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:37:22.046] [info]  [LoginQRSocket] [16060972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:37:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:37:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:38:03.046] [info]  [LoginQRSocket] [16101972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:38:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:38:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:38:44.046] [info]  [LoginQRSocket] [16142972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:38:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:39:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:39:25.046] [info]  [LoginQRSocket] [16183973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:39:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:39:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:40:07.046] [info]  [LoginQRSocket] [16225973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:40:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:40:38.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:40:48.046] [info]  [LoginQRSocket] [16266973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:40:48.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:41:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:41:29.046] [info]  [LoginQRSocket] [16307973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:41:29.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:42:00.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:42:10.046] [info]  [LoginQRSocket] [16348973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:42:10.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:42:41.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:42:52.046] [info]  [LoginQRSocket] [16390973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:42:52.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:43:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:43:33.046] [info]  [LoginQRSocket] [16431972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:43:33.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:44:04.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:44:14.046] [info]  [LoginQRSocket] [16472972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:44:14.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:44:45.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:44:55.046] [info]  [LoginQRSocket] [16513973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:44:55.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:45:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:45:37.046] [info]  [LoginQRSocket] [16555973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:45:37.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:46:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:46:18.046] [info]  [LoginQRSocket] [16596973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:46:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:46:49.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:46:59.046] [info]  [LoginQRSocket] [16637972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:46:59.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:47:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:47:40.046] [info]  [LoginQRSocket] [16678973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:47:40.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:48:11.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:48:22.046] [info]  [LoginQRSocket] [16720972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:48:22.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:48:53.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:49:03.046] [info]  [LoginQRSocket] [16761973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:49:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:49:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:49:44.047] [info]  [LoginQRSocket] [16802973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:49:44.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:50:15.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:50:25.048] [info]  [LoginQRSocket] [16843973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:50:25.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:50:56.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:51:07.047] [info]  [LoginQRSocket] [16885972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:51:07.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:51:38.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:51:48.047] [info]  [LoginQRSocket] [16926972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:51:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:52:19.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:52:29.047] [info]  [LoginQRSocket] [16967972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:52:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:53:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:53:10.047] [info]  [LoginQRSocket] [17008973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:53:10.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:53:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:53:52.048] [info]  [LoginQRSocket] [17050972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:53:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:54:23.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:54:33.047] [info]  [LoginQRSocket] [17091973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:54:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:55:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:55:14.047] [info]  [LoginQRSocket] [17132972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:55:14.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:55:45.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:55:55.049] [info]  [LoginQRSocket] [17173973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:55:55.049] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:56:26.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:56:37.047] [info]  [LoginQRSocket] [17215972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:56:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:57:08.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:57:18.046] [info]  [LoginQRSocket] [17256972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:57:18.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:57:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:57:59.047] [info]  [LoginQRSocket] [17297972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:57:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:58:30.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:58:40.047] [info]  [LoginQRSocket] [17338973ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:58:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:59:11.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 14:59:22.047] [info]  [LoginQRSocket] [17380972ms] heartbeat timeout, reconnecting.
+[2024-11-01 14:59:22.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 14:59:53.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:00:03.046] [info]  [LoginQRSocket] [17421972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:00:03.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:00:34.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:00:44.046] [info]  [LoginQRSocket] [17462973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:00:44.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:01:15.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:01:25.046] [info]  [LoginQRSocket] [17503973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:01:25.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:01:56.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:02:07.046] [info]  [LoginQRSocket] [17545973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:02:07.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:02:38.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:02:48.047] [info]  [LoginQRSocket] [17586972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:02:48.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:03:19.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:03:29.046] [info]  [LoginQRSocket] [17627972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:03:29.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:04:00.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:04:10.048] [info]  [LoginQRSocket] [17668973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:04:10.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:04:41.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:04:52.048] [info]  [LoginQRSocket] [17710972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:04:52.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:05:23.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:05:33.046] [info]  [LoginQRSocket] [17751973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:05:33.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:06:04.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:06:14.048] [info]  [LoginQRSocket] [17792972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:06:14.048] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:06:45.048] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:06:55.046] [info]  [LoginQRSocket] [17833973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:06:55.046] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:07:26.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:07:37.047] [info]  [LoginQRSocket] [17875972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:07:37.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:08:08.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:08:18.046] [info]  [LoginQRSocket] [17916972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:08:18.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:08:49.047] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:08:59.047] [info]  [LoginQRSocket] [17957972ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:08:59.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-01 15:09:30.046] [info]  [LoginQRSocket] document is not visible, will defer reconnection when document becomes visible.
+[2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/b21c5111a12372139409.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/f5b8aa3411dfc24ff2e6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/8bd8143eff37936894aa.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/48a594e29497835802fe.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/452d7be36bf4b23241bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2024-11-01 15:09:40.047] [info]  [LoginQRSocket] [17998973ms] heartbeat timeout, reconnecting.
+[2024-11-01 15:09:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.

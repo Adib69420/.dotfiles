@@ -1,0 +1,711 @@
+2024-11-01T04:08:33.413Z [Modules] Modules initializing
+2024-11-01T04:08:33.413Z [Modules] Distribution: remote
+2024-11-01T04:08:33.413Z [Modules] Host updates: enabled
+2024-11-01T04:08:33.413Z [Modules] Module updates: enabled
+2024-11-01T04:08:33.413Z [Modules] Module install path: /home/adib/.config/discord/0.0.72/modules
+2024-11-01T04:08:33.414Z [Modules] Module installed file path: /home/adib/.config/discord/0.0.72/modules/installed.json
+2024-11-01T04:08:33.414Z [Modules] Module download path: /home/adib/.config/discord/0.0.72/modules/pending
+2024-11-01T04:08:33.838Z [Modules] Bootstrapping...
+2024-11-01T04:08:33.838Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-11-01T04:08:33.840Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-11-01T04:08:33.840Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-11-01T04:08:33.841Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-11-01T04:08:33.841Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-11-01T04:08:33.841Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-11-01T04:08:33.841Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-11-01T04:08:33.842Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-11-01T04:08:33.842Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-11-01T04:08:33.842Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-11-01T04:08:33.842Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-11-01T04:08:33.842Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-11-01T04:08:33.842Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-11-01T04:08:33.842Z [Modules] Checking for host updates.
+2024-11-01T04:08:35.004Z [Modules] Host is up to date.
+2024-11-01T04:08:35.004Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T04:08:35.064Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-11-01T04:08:35.064Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-11-01T04:08:35.064Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-11-01T04:08:35.065Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-11-01T04:08:35.065Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-11-01T04:08:35.065Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-11-01T04:08:35.065Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-11-01T04:08:35.065Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip
+2024-11-01T04:08:36.343Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 1%
+2024-11-01T04:08:36.506Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 2%
+2024-11-01T04:08:36.606Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 3%
+2024-11-01T04:08:36.760Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 6%
+2024-11-01T04:08:36.761Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 7%
+2024-11-01T04:08:36.828Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 8%
+2024-11-01T04:08:36.954Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 9%
+2024-11-01T04:08:37.159Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 10%
+2024-11-01T04:08:37.260Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 11%
+2024-11-01T04:08:37.400Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 12%
+2024-11-01T04:08:37.463Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 14%
+2024-11-01T04:08:37.620Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 15%
+2024-11-01T04:08:37.792Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 17%
+2024-11-01T04:08:37.980Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 18%
+2024-11-01T04:08:38.030Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 19%
+2024-11-01T04:08:38.207Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 20%
+2024-11-01T04:08:38.274Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 21%
+2024-11-01T04:08:38.282Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 22%
+2024-11-01T04:08:38.401Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 23%
+2024-11-01T04:08:38.496Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 24%
+2024-11-01T04:08:38.685Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 26%
+2024-11-01T04:08:38.744Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 27%
+2024-11-01T04:08:38.898Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 28%
+2024-11-01T04:08:38.935Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 29%
+2024-11-01T04:08:39.081Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 30%
+2024-11-01T04:08:39.143Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 32%
+2024-11-01T04:08:39.441Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 34%
+2024-11-01T04:08:39.460Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 35%
+2024-11-01T04:08:39.493Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 36%
+2024-11-01T04:08:39.611Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 37%
+2024-11-01T04:08:39.687Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 38%
+2024-11-01T04:08:39.739Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 39%
+2024-11-01T04:08:40.033Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 41%
+2024-11-01T04:08:40.095Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 42%
+2024-11-01T04:08:40.301Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 44%
+2024-11-01T04:08:40.525Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 46%
+2024-11-01T04:08:40.745Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 47%
+2024-11-01T04:08:40.792Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 48%
+2024-11-01T04:08:40.915Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 49%
+2024-11-01T04:08:41.041Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 50%
+2024-11-01T04:08:41.079Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 51%
+2024-11-01T04:08:41.178Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 52%
+2024-11-01T04:08:41.292Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 53%
+2024-11-01T04:08:41.390Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 54%
+2024-11-01T04:08:41.462Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 55%
+2024-11-01T04:08:41.615Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 56%
+2024-11-01T04:08:41.710Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 57%
+2024-11-01T04:08:41.761Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 58%
+2024-11-01T04:08:41.832Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 59%
+2024-11-01T04:08:42.082Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 61%
+2024-11-01T04:08:42.087Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 62%
+2024-11-01T04:08:42.318Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 64%
+2024-11-01T04:08:42.542Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 65%
+2024-11-01T04:08:42.596Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 67%
+2024-11-01T04:08:42.720Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 68%
+2024-11-01T04:08:42.793Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 69%
+2024-11-01T04:08:42.937Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 70%
+2024-11-01T04:08:42.983Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 71%
+2024-11-01T04:08:43.063Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 72%
+2024-11-01T04:08:43.155Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 73%
+2024-11-01T04:08:43.273Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 74%
+2024-11-01T04:08:43.398Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 75%
+2024-11-01T04:08:43.478Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 76%
+2024-11-01T04:08:43.523Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 77%
+2024-11-01T04:08:43.597Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 78%
+2024-11-01T04:08:43.751Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 79%
+2024-11-01T04:08:43.811Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 80%
+2024-11-01T04:08:43.860Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 81%
+2024-11-01T04:08:43.990Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 82%
+2024-11-01T04:08:44.065Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 83%
+2024-11-01T04:08:44.099Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 84%
+2024-11-01T04:08:44.146Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 85%
+2024-11-01T04:08:44.268Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 86%
+2024-11-01T04:08:44.304Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 87%
+2024-11-01T04:08:44.378Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 88%
+2024-11-01T04:08:44.449Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 89%
+2024-11-01T04:08:44.493Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 90%
+2024-11-01T04:08:44.574Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 91%
+2024-11-01T04:08:44.637Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 92%
+2024-11-01T04:08:44.658Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 93%
+2024-11-01T04:08:44.789Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 94%
+2024-11-01T04:08:44.975Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 95%
+2024-11-01T04:08:44.998Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 96%
+2024-11-01T04:08:45.013Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 97%
+2024-11-01T04:08:45.182Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 99%
+2024-11-01T04:08:45.221Z [Modules] Streaming discord_desktop_core@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip: 100%
+2024-11-01T04:08:45.222Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-11-01T04:08:45.222Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip
+2024-11-01T04:08:45.861Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 1%
+2024-11-01T04:08:45.935Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 3%
+2024-11-01T04:08:46.011Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 4%
+2024-11-01T04:08:46.042Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 5%
+2024-11-01T04:08:46.074Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 6%
+2024-11-01T04:08:46.157Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 8%
+2024-11-01T04:08:46.213Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 9%
+2024-11-01T04:08:46.297Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 10%
+2024-11-01T04:08:46.317Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 11%
+2024-11-01T04:08:46.367Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 12%
+2024-11-01T04:08:46.394Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 13%
+2024-11-01T04:08:46.422Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 14%
+2024-11-01T04:08:46.449Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 15%
+2024-11-01T04:08:46.555Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 16%
+2024-11-01T04:08:46.601Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 17%
+2024-11-01T04:08:46.639Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 18%
+2024-11-01T04:08:46.733Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 20%
+2024-11-01T04:08:46.763Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 21%
+2024-11-01T04:08:46.814Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 22%
+2024-11-01T04:08:46.843Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 23%
+2024-11-01T04:08:46.872Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 24%
+2024-11-01T04:08:46.936Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 26%
+2024-11-01T04:08:47.007Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 27%
+2024-11-01T04:08:47.031Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 28%
+2024-11-01T04:08:47.049Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 29%
+2024-11-01T04:08:47.131Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 30%
+2024-11-01T04:08:47.141Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 31%
+2024-11-01T04:08:47.188Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 33%
+2024-11-01T04:08:47.210Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 34%
+2024-11-01T04:08:47.285Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 35%
+2024-11-01T04:08:47.356Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 37%
+2024-11-01T04:08:47.367Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 38%
+2024-11-01T04:08:47.427Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 39%
+2024-11-01T04:08:47.446Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 40%
+2024-11-01T04:08:47.491Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 41%
+2024-11-01T04:08:47.512Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 43%
+2024-11-01T04:08:47.574Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 45%
+2024-11-01T04:08:47.620Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 46%
+2024-11-01T04:08:47.678Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 47%
+2024-11-01T04:08:47.706Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 49%
+2024-11-01T04:08:47.773Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 50%
+2024-11-01T04:08:47.792Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 51%
+2024-11-01T04:08:47.831Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 52%
+2024-11-01T04:08:47.923Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 54%
+2024-11-01T04:08:47.926Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 55%
+2024-11-01T04:08:47.976Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 58%
+2024-11-01T04:08:48.095Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 61%
+2024-11-01T04:08:48.143Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 62%
+2024-11-01T04:08:48.153Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 63%
+2024-11-01T04:08:48.230Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 65%
+2024-11-01T04:08:48.332Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 68%
+2024-11-01T04:08:48.362Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 69%
+2024-11-01T04:08:48.393Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 71%
+2024-11-01T04:08:48.457Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 73%
+2024-11-01T04:08:48.485Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 74%
+2024-11-01T04:08:48.528Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 76%
+2024-11-01T04:08:48.636Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 77%
+2024-11-01T04:08:48.753Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 80%
+2024-11-01T04:08:48.754Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 82%
+2024-11-01T04:08:48.770Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 83%
+2024-11-01T04:08:48.798Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 84%
+2024-11-01T04:08:48.869Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 85%
+2024-11-01T04:08:48.921Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 86%
+2024-11-01T04:08:48.946Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 88%
+2024-11-01T04:08:48.970Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 90%
+2024-11-01T04:08:49.030Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 92%
+2024-11-01T04:08:49.075Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 93%
+2024-11-01T04:08:49.100Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 94%
+2024-11-01T04:08:49.102Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 95%
+2024-11-01T04:08:49.217Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 96%
+2024-11-01T04:08:49.218Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 97%
+2024-11-01T04:08:49.223Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 98%
+2024-11-01T04:08:49.233Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 99%
+2024-11-01T04:08:49.300Z [Modules] Streaming discord_erlpack@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip: 100%
+2024-11-01T04:08:49.301Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-11-01T04:08:49.301Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip
+2024-11-01T04:08:50.122Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 1%
+2024-11-01T04:08:50.261Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 2%
+2024-11-01T04:08:50.366Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 3%
+2024-11-01T04:08:50.552Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 4%
+2024-11-01T04:08:50.596Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 5%
+2024-11-01T04:08:50.730Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 6%
+2024-11-01T04:08:50.846Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 7%
+2024-11-01T04:08:51.027Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 8%
+2024-11-01T04:08:51.099Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 9%
+2024-11-01T04:08:51.239Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 10%
+2024-11-01T04:08:51.446Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 11%
+2024-11-01T04:08:51.496Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 12%
+2024-11-01T04:08:51.583Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 13%
+2024-11-01T04:08:51.714Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 14%
+2024-11-01T04:08:51.834Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 15%
+2024-11-01T04:08:51.921Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 16%
+2024-11-01T04:08:52.080Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 17%
+2024-11-01T04:08:52.258Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 18%
+2024-11-01T04:08:52.314Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 19%
+2024-11-01T04:08:52.429Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 20%
+2024-11-01T04:08:52.512Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 21%
+2024-11-01T04:08:52.603Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 22%
+2024-11-01T04:08:52.735Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 23%
+2024-11-01T04:08:52.844Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 24%
+2024-11-01T04:08:52.978Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 25%
+2024-11-01T04:08:53.089Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 26%
+2024-11-01T04:08:53.158Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 27%
+2024-11-01T04:08:53.258Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 28%
+2024-11-01T04:08:53.368Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 29%
+2024-11-01T04:08:53.458Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 30%
+2024-11-01T04:08:53.524Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 31%
+2024-11-01T04:08:53.615Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 32%
+2024-11-01T04:08:53.758Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 33%
+2024-11-01T04:08:53.803Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 34%
+2024-11-01T04:08:53.882Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 35%
+2024-11-01T04:08:54.033Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 36%
+2024-11-01T04:08:54.099Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 37%
+2024-11-01T04:08:54.120Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 38%
+2024-11-01T04:08:54.300Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 39%
+2024-11-01T04:08:54.339Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 40%
+2024-11-01T04:08:54.404Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 41%
+2024-11-01T04:08:54.485Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 42%
+2024-11-01T04:08:54.550Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 43%
+2024-11-01T04:08:54.653Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 44%
+2024-11-01T04:08:54.712Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 45%
+2024-11-01T04:08:54.797Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 46%
+2024-11-01T04:08:54.848Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 47%
+2024-11-01T04:08:54.921Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 48%
+2024-11-01T04:08:54.962Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 49%
+2024-11-01T04:08:55.020Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 50%
+2024-11-01T04:08:55.107Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 51%
+2024-11-01T04:08:55.159Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 52%
+2024-11-01T04:08:55.272Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 53%
+2024-11-01T04:08:55.273Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 54%
+2024-11-01T04:08:55.385Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 55%
+2024-11-01T04:08:55.433Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 56%
+2024-11-01T04:08:55.621Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 57%
+2024-11-01T04:08:55.652Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 58%
+2024-11-01T04:08:55.696Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 59%
+2024-11-01T04:08:55.807Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 60%
+2024-11-01T04:08:55.807Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 61%
+2024-11-01T04:08:55.909Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 62%
+2024-11-01T04:08:55.997Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 63%
+2024-11-01T04:08:55.997Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 64%
+2024-11-01T04:08:56.114Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 66%
+2024-11-01T04:08:56.297Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 67%
+2024-11-01T04:08:56.297Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 68%
+2024-11-01T04:08:56.347Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 69%
+2024-11-01T04:08:56.370Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 70%
+2024-11-01T04:08:56.425Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 71%
+2024-11-01T04:08:56.480Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 72%
+2024-11-01T04:08:56.561Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 73%
+2024-11-01T04:08:56.561Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 74%
+2024-11-01T04:08:56.621Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 75%
+2024-11-01T04:08:56.639Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 76%
+2024-11-01T04:08:56.688Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 77%
+2024-11-01T04:08:56.795Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 78%
+2024-11-01T04:08:56.831Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 79%
+2024-11-01T04:08:56.832Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 80%
+2024-11-01T04:08:56.871Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 81%
+2024-11-01T04:08:56.920Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 82%
+2024-11-01T04:08:57.010Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 83%
+2024-11-01T04:08:57.011Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 84%
+2024-11-01T04:08:57.068Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 85%
+2024-11-01T04:08:57.173Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 86%
+2024-11-01T04:08:57.198Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 87%
+2024-11-01T04:08:57.262Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 88%
+2024-11-01T04:08:57.495Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 89%
+2024-11-01T04:08:57.496Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 90%
+2024-11-01T04:08:57.496Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 91%
+2024-11-01T04:08:57.598Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 92%
+2024-11-01T04:08:57.803Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 93%
+2024-11-01T04:08:57.820Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 94%
+2024-11-01T04:08:57.836Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 95%
+2024-11-01T04:08:57.908Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 96%
+2024-11-01T04:08:58.114Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 97%
+2024-11-01T04:08:58.115Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 99%
+2024-11-01T04:08:58.143Z [Modules] Streaming discord_spellcheck@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip: 100%
+2024-11-01T04:08:58.144Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-11-01T04:08:58.144Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip
+2024-11-01T04:08:58.923Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 2%
+2024-11-01T04:08:58.923Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 3%
+2024-11-01T04:08:58.949Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 4%
+2024-11-01T04:08:58.972Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 5%
+2024-11-01T04:08:59.005Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 6%
+2024-11-01T04:08:59.027Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 7%
+2024-11-01T04:08:59.055Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 8%
+2024-11-01T04:08:59.082Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 9%
+2024-11-01T04:08:59.104Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 10%
+2024-11-01T04:08:59.118Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 11%
+2024-11-01T04:08:59.131Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 12%
+2024-11-01T04:08:59.197Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 13%
+2024-11-01T04:08:59.235Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 15%
+2024-11-01T04:08:59.246Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 16%
+2024-11-01T04:08:59.261Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 17%
+2024-11-01T04:08:59.315Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 18%
+2024-11-01T04:08:59.346Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 19%
+2024-11-01T04:08:59.416Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 20%
+2024-11-01T04:08:59.416Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 21%
+2024-11-01T04:08:59.424Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 22%
+2024-11-01T04:08:59.434Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 23%
+2024-11-01T04:08:59.464Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 24%
+2024-11-01T04:08:59.481Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 25%
+2024-11-01T04:08:59.552Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 26%
+2024-11-01T04:08:59.552Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 27%
+2024-11-01T04:08:59.595Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 28%
+2024-11-01T04:08:59.619Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 29%
+2024-11-01T04:08:59.634Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 30%
+2024-11-01T04:08:59.675Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 32%
+2024-11-01T04:08:59.676Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 33%
+2024-11-01T04:08:59.700Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 34%
+2024-11-01T04:08:59.795Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 35%
+2024-11-01T04:08:59.795Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 38%
+2024-11-01T04:08:59.816Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 39%
+2024-11-01T04:08:59.873Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 40%
+2024-11-01T04:08:59.892Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 41%
+2024-11-01T04:08:59.991Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 43%
+2024-11-01T04:09:00.017Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 44%
+2024-11-01T04:09:00.017Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 45%
+2024-11-01T04:09:00.064Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 46%
+2024-11-01T04:09:00.086Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 48%
+2024-11-01T04:09:00.110Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 49%
+2024-11-01T04:09:00.137Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 50%
+2024-11-01T04:09:00.194Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 51%
+2024-11-01T04:09:00.196Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 52%
+2024-11-01T04:09:00.220Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 53%
+2024-11-01T04:09:00.248Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 54%
+2024-11-01T04:09:00.262Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 55%
+2024-11-01T04:09:00.326Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 56%
+2024-11-01T04:09:00.354Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 58%
+2024-11-01T04:09:00.354Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 59%
+2024-11-01T04:09:00.378Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 60%
+2024-11-01T04:09:00.448Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 61%
+2024-11-01T04:09:00.448Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 62%
+2024-11-01T04:09:00.472Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 63%
+2024-11-01T04:09:00.484Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 65%
+2024-11-01T04:09:00.484Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 66%
+2024-11-01T04:09:00.549Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 67%
+2024-11-01T04:09:00.652Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 69%
+2024-11-01T04:09:00.661Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 70%
+2024-11-01T04:09:00.730Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 72%
+2024-11-01T04:09:00.730Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 74%
+2024-11-01T04:09:00.814Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 75%
+2024-11-01T04:09:00.822Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 76%
+2024-11-01T04:09:00.862Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 77%
+2024-11-01T04:09:00.907Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 78%
+2024-11-01T04:09:00.949Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 79%
+2024-11-01T04:09:00.987Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 80%
+2024-11-01T04:09:01.010Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 81%
+2024-11-01T04:09:01.033Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 82%
+2024-11-01T04:09:01.101Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 83%
+2024-11-01T04:09:01.137Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 85%
+2024-11-01T04:09:01.138Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 86%
+2024-11-01T04:09:01.230Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 88%
+2024-11-01T04:09:01.237Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 89%
+2024-11-01T04:09:01.264Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 90%
+2024-11-01T04:09:01.288Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 91%
+2024-11-01T04:09:01.317Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 92%
+2024-11-01T04:09:01.348Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 93%
+2024-11-01T04:09:01.375Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 94%
+2024-11-01T04:09:01.406Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 95%
+2024-11-01T04:09:01.426Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 96%
+2024-11-01T04:09:01.458Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 97%
+2024-11-01T04:09:01.539Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 99%
+2024-11-01T04:09:01.539Z [Modules] Streaming discord_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip: 100%
+2024-11-01T04:09:01.540Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-11-01T04:09:01.540Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip
+2024-11-01T04:09:02.294Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 1%
+2024-11-01T04:09:02.470Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 2%
+2024-11-01T04:09:02.595Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 3%
+2024-11-01T04:09:02.779Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 4%
+2024-11-01T04:09:02.935Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 5%
+2024-11-01T04:09:03.082Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 6%
+2024-11-01T04:09:03.237Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 7%
+2024-11-01T04:09:03.401Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 8%
+2024-11-01T04:09:03.520Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 9%
+2024-11-01T04:09:03.740Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 10%
+2024-11-01T04:09:03.873Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 11%
+2024-11-01T04:09:04.048Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 12%
+2024-11-01T04:09:04.134Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 13%
+2024-11-01T04:09:04.261Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 14%
+2024-11-01T04:09:04.384Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 15%
+2024-11-01T04:09:04.526Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 16%
+2024-11-01T04:09:04.634Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 17%
+2024-11-01T04:09:04.749Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 18%
+2024-11-01T04:09:04.950Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 19%
+2024-11-01T04:09:05.109Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 20%
+2024-11-01T04:09:05.256Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 21%
+2024-11-01T04:09:05.348Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 22%
+2024-11-01T04:09:05.498Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 23%
+2024-11-01T04:09:05.676Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 24%
+2024-11-01T04:09:05.869Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 25%
+2024-11-01T04:09:05.947Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 26%
+2024-11-01T04:09:06.173Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 27%
+2024-11-01T04:09:06.261Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 28%
+2024-11-01T04:09:06.416Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 29%
+2024-11-01T04:09:06.670Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 30%
+2024-11-01T04:09:06.872Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 31%
+2024-11-01T04:09:06.961Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 32%
+2024-11-01T04:09:07.137Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 33%
+2024-11-01T04:09:07.276Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 34%
+2024-11-01T04:09:07.412Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 35%
+2024-11-01T04:09:07.534Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 36%
+2024-11-01T04:09:07.668Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 37%
+2024-11-01T04:09:07.814Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 38%
+2024-11-01T04:09:07.961Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 39%
+2024-11-01T04:09:08.097Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 40%
+2024-11-01T04:09:08.188Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 41%
+2024-11-01T04:09:08.466Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 42%
+2024-11-01T04:09:08.634Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 43%
+2024-11-01T04:09:08.729Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 44%
+2024-11-01T04:09:08.796Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 45%
+2024-11-01T04:09:08.925Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 46%
+2024-11-01T04:09:09.109Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 47%
+2024-11-01T04:09:09.315Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 48%
+2024-11-01T04:09:09.473Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 49%
+2024-11-01T04:09:09.575Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 50%
+2024-11-01T04:09:09.781Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 51%
+2024-11-01T04:09:09.919Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 52%
+2024-11-01T04:09:10.107Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 53%
+2024-11-01T04:09:10.231Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 54%
+2024-11-01T04:09:10.383Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 55%
+2024-11-01T04:09:10.563Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 56%
+2024-11-01T04:09:10.766Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 57%
+2024-11-01T04:09:10.886Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 58%
+2024-11-01T04:09:11.002Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 59%
+2024-11-01T04:09:11.219Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 60%
+2024-11-01T04:09:11.239Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 61%
+2024-11-01T04:09:11.378Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 62%
+2024-11-01T04:09:11.531Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 63%
+2024-11-01T04:09:11.654Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 64%
+2024-11-01T04:09:11.793Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 65%
+2024-11-01T04:09:11.916Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 66%
+2024-11-01T04:09:12.096Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 67%
+2024-11-01T04:09:12.144Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 68%
+2024-11-01T04:09:12.288Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 69%
+2024-11-01T04:09:12.340Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 70%
+2024-11-01T04:09:12.455Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 71%
+2024-11-01T04:09:12.585Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 72%
+2024-11-01T04:09:12.716Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 73%
+2024-11-01T04:09:12.788Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 74%
+2024-11-01T04:09:13.043Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 75%
+2024-11-01T04:09:13.051Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 76%
+2024-11-01T04:09:13.249Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 77%
+2024-11-01T04:09:13.321Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 78%
+2024-11-01T04:09:13.454Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 79%
+2024-11-01T04:09:13.618Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 80%
+2024-11-01T04:09:13.765Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 81%
+2024-11-01T04:09:13.891Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 82%
+2024-11-01T04:09:14.095Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 83%
+2024-11-01T04:09:14.205Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 84%
+2024-11-01T04:09:14.400Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 85%
+2024-11-01T04:09:14.589Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 86%
+2024-11-01T04:09:14.664Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 87%
+2024-11-01T04:09:14.857Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 88%
+2024-11-01T04:09:15.044Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 89%
+2024-11-01T04:09:15.115Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 90%
+2024-11-01T04:09:15.320Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 91%
+2024-11-01T04:09:15.418Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 92%
+2024-11-01T04:09:15.580Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 93%
+2024-11-01T04:09:15.744Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 94%
+2024-11-01T04:09:15.898Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 95%
+2024-11-01T04:09:16.023Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 96%
+2024-11-01T04:09:16.185Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 97%
+2024-11-01T04:09:16.343Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 98%
+2024-11-01T04:09:16.516Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 99%
+2024-11-01T04:09:16.644Z [Modules] Streaming discord_voice@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip: 100%
+2024-11-01T04:09:16.645Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-11-01T04:09:16.645Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip
+2024-11-01T04:09:17.274Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 3%
+2024-11-01T04:09:17.327Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 19%
+2024-11-01T04:09:17.328Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 31%
+2024-11-01T04:09:17.338Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 36%
+2024-11-01T04:09:17.397Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 40%
+2024-11-01T04:09:17.401Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 56%
+2024-11-01T04:09:17.401Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 68%
+2024-11-01T04:09:17.503Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 84%
+2024-11-01T04:09:17.503Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 96%
+2024-11-01T04:09:17.781Z [Modules] Streaming discord_zstd@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip: 100%
+2024-11-01T04:09:17.782Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-11-01T04:09:17.782Z [Modules] Installing updates...
+2024-11-01T04:09:17.782Z [Modules] Installing discord_desktop_core@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_desktop_core-1.zip
+2024-11-01T04:09:17.833Z [Modules] Installing discord_erlpack@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_erlpack-1.zip
+2024-11-01T04:09:17.865Z [Modules] Installing discord_spellcheck@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_spellcheck-1.zip
+2024-11-01T04:09:18.254Z [Modules] Installing discord_utils@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_utils-1.zip
+2024-11-01T04:09:18.335Z [Modules] Installing discord_voice@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_voice-1.zip
+2024-11-01T04:09:18.683Z [Modules] Installing discord_zstd@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_zstd-1.zip
+2024-11-01T04:09:18.693Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-11-01T04:09:18.693Z [Modules] Checking for host updates.
+2024-11-01T04:09:19.274Z [Modules] Host is up to date.
+2024-11-01T04:09:19.274Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T04:09:19.276Z [Modules] No module updates available.
+2024-11-01T04:09:22.009Z [Modules] Starting to install discord_krisp...
+2024-11-01T04:09:22.009Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-11-01T04:09:22.010Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip
+2024-11-01T04:09:22.018Z [Modules] Starting to install discord_game_utils...
+2024-11-01T04:09:22.773Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 1%
+2024-11-01T04:09:22.872Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 2%
+2024-11-01T04:09:22.983Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 3%
+2024-11-01T04:09:23.101Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 4%
+2024-11-01T04:09:23.295Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 5%
+2024-11-01T04:09:23.381Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 6%
+2024-11-01T04:09:23.599Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 7%
+2024-11-01T04:09:23.723Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 8%
+2024-11-01T04:09:23.832Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 9%
+2024-11-01T04:09:24.004Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 10%
+2024-11-01T04:09:24.153Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 11%
+2024-11-01T04:09:24.390Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 12%
+2024-11-01T04:09:24.506Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 13%
+2024-11-01T04:09:24.639Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 14%
+2024-11-01T04:09:24.761Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 15%
+2024-11-01T04:09:24.956Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 16%
+2024-11-01T04:09:25.127Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 17%
+2024-11-01T04:09:25.255Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 18%
+2024-11-01T04:09:25.480Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 19%
+2024-11-01T04:09:25.628Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 20%
+2024-11-01T04:09:25.851Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 21%
+2024-11-01T04:09:25.968Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 22%
+2024-11-01T04:09:26.135Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 23%
+2024-11-01T04:09:26.388Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 24%
+2024-11-01T04:09:26.506Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 25%
+2024-11-01T04:09:26.711Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 26%
+2024-11-01T04:09:26.888Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 27%
+2024-11-01T04:09:27.064Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 28%
+2024-11-01T04:09:27.240Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 29%
+2024-11-01T04:09:27.420Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 30%
+2024-11-01T04:09:27.583Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 31%
+2024-11-01T04:09:27.781Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 32%
+2024-11-01T04:09:28.039Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 33%
+2024-11-01T04:09:28.178Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 34%
+2024-11-01T04:09:28.353Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 35%
+2024-11-01T04:09:28.540Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 36%
+2024-11-01T04:09:28.650Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 37%
+2024-11-01T04:09:28.757Z [Modules] Checking for host updates.
+2024-11-01T04:09:28.875Z [Modules] Starting to install discord_rpc...
+2024-11-01T04:09:28.888Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 38%
+2024-11-01T04:09:28.957Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 39%
+2024-11-01T04:09:29.135Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 40%
+2024-11-01T04:09:29.228Z [Modules] Host is up to date.
+2024-11-01T04:09:29.228Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T04:09:29.229Z [Modules] No module updates available.
+2024-11-01T04:09:29.297Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 41%
+2024-11-01T04:09:29.473Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 42%
+2024-11-01T04:09:29.624Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 43%
+2024-11-01T04:09:29.781Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 44%
+2024-11-01T04:09:29.951Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 45%
+2024-11-01T04:09:30.133Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 46%
+2024-11-01T04:09:30.349Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 47%
+2024-11-01T04:09:30.513Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 48%
+2024-11-01T04:09:30.697Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 49%
+2024-11-01T04:09:30.841Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 50%
+2024-11-01T04:09:31.047Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 51%
+2024-11-01T04:09:31.255Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 52%
+2024-11-01T04:09:31.435Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 53%
+2024-11-01T04:09:31.598Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 54%
+2024-11-01T04:09:31.723Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 55%
+2024-11-01T04:09:31.874Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 56%
+2024-11-01T04:09:32.062Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 57%
+2024-11-01T04:09:32.213Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 58%
+2024-11-01T04:09:32.403Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 59%
+2024-11-01T04:09:32.517Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 60%
+2024-11-01T04:09:32.680Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 61%
+2024-11-01T04:09:32.850Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 62%
+2024-11-01T04:09:32.948Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 63%
+2024-11-01T04:09:33.101Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 64%
+2024-11-01T04:09:33.322Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 65%
+2024-11-01T04:09:33.462Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 66%
+2024-11-01T04:09:33.556Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 67%
+2024-11-01T04:09:33.674Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 68%
+2024-11-01T04:09:33.795Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 69%
+2024-11-01T04:09:33.944Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 70%
+2024-11-01T04:09:34.016Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 71%
+2024-11-01T04:09:34.124Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 72%
+2024-11-01T04:09:34.264Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 73%
+2024-11-01T04:09:34.336Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 74%
+2024-11-01T04:09:34.607Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 75%
+2024-11-01T04:09:34.607Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 76%
+2024-11-01T04:09:34.868Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 77%
+2024-11-01T04:09:34.891Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 78%
+2024-11-01T04:09:35.060Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 79%
+2024-11-01T04:09:35.168Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 80%
+2024-11-01T04:09:35.320Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 81%
+2024-11-01T04:09:35.454Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 82%
+2024-11-01T04:09:35.663Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 83%
+2024-11-01T04:09:35.778Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 84%
+2024-11-01T04:09:35.965Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 85%
+2024-11-01T04:09:36.066Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 86%
+2024-11-01T04:09:36.223Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 87%
+2024-11-01T04:09:36.343Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 88%
+2024-11-01T04:09:36.510Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 89%
+2024-11-01T04:09:36.644Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 90%
+2024-11-01T04:09:36.787Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 91%
+2024-11-01T04:09:36.950Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 92%
+2024-11-01T04:09:37.021Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 93%
+2024-11-01T04:09:37.189Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 94%
+2024-11-01T04:09:37.260Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 95%
+2024-11-01T04:09:37.427Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 96%
+2024-11-01T04:09:37.512Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 97%
+2024-11-01T04:09:37.749Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 98%
+2024-11-01T04:09:37.838Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 99%
+2024-11-01T04:09:37.923Z [Modules] Streaming discord_krisp@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip: 100%
+2024-11-01T04:09:37.925Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-11-01T04:09:37.925Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip
+2024-11-01T04:09:37.925Z [Modules] Installing discord_krisp@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_krisp-1.zip
+2024-11-01T04:09:38.150Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-11-01T04:09:38.811Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 1%
+2024-11-01T04:09:38.825Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 3%
+2024-11-01T04:09:38.848Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 4%
+2024-11-01T04:09:38.863Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 5%
+2024-11-01T04:09:38.879Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 7%
+2024-11-01T04:09:38.952Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 9%
+2024-11-01T04:09:38.953Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 10%
+2024-11-01T04:09:38.958Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 11%
+2024-11-01T04:09:38.977Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 12%
+2024-11-01T04:09:39.026Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 14%
+2024-11-01T04:09:39.027Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 15%
+2024-11-01T04:09:39.037Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 17%
+2024-11-01T04:09:39.111Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 20%
+2024-11-01T04:09:39.123Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 21%
+2024-11-01T04:09:39.248Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 24%
+2024-11-01T04:09:39.249Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 25%
+2024-11-01T04:09:39.266Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 28%
+2024-11-01T04:09:39.298Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 31%
+2024-11-01T04:09:39.301Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 32%
+2024-11-01T04:09:39.310Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 33%
+2024-11-01T04:09:39.416Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 35%
+2024-11-01T04:09:39.417Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 40%
+2024-11-01T04:09:39.443Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 42%
+2024-11-01T04:09:39.471Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 43%
+2024-11-01T04:09:39.493Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 44%
+2024-11-01T04:09:39.503Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 46%
+2024-11-01T04:09:39.518Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 47%
+2024-11-01T04:09:39.541Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 48%
+2024-11-01T04:09:39.545Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 49%
+2024-11-01T04:09:39.564Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 50%
+2024-11-01T04:09:39.621Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 53%
+2024-11-01T04:09:39.703Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 55%
+2024-11-01T04:09:39.704Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 59%
+2024-11-01T04:09:39.707Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 60%
+2024-11-01T04:09:39.715Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 61%
+2024-11-01T04:09:39.777Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 63%
+2024-11-01T04:09:39.778Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 65%
+2024-11-01T04:09:39.780Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 66%
+2024-11-01T04:09:39.788Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 67%
+2024-11-01T04:09:39.796Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 68%
+2024-11-01T04:09:39.804Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 69%
+2024-11-01T04:09:39.826Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 70%
+2024-11-01T04:09:39.830Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 71%
+2024-11-01T04:09:39.848Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 72%
+2024-11-01T04:09:39.857Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 73%
+2024-11-01T04:09:39.919Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 75%
+2024-11-01T04:09:39.934Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 77%
+2024-11-01T04:09:39.934Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 79%
+2024-11-01T04:09:39.939Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 80%
+2024-11-01T04:09:39.953Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 81%
+2024-11-01T04:09:40.008Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 83%
+2024-11-01T04:09:40.008Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 84%
+2024-11-01T04:09:40.049Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 86%
+2024-11-01T04:09:40.050Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 89%
+2024-11-01T04:09:40.059Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 90%
+2024-11-01T04:09:40.070Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 91%
+2024-11-01T04:09:40.076Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 92%
+2024-11-01T04:09:40.079Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 93%
+2024-11-01T04:09:40.102Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 94%
+2024-11-01T04:09:40.119Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 96%
+2024-11-01T04:09:40.188Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 99%
+2024-11-01T04:09:40.188Z [Modules] Streaming discord_game_utils@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip: 100%
+2024-11-01T04:09:40.189Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-11-01T04:09:40.189Z [Modules] Streaming discord_rpc@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_rpc-1.zip
+2024-11-01T04:09:40.189Z [Modules] Installing discord_game_utils@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_game_utils-1.zip
+2024-11-01T04:09:40.228Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-11-01T04:09:40.980Z [Modules] Streaming discord_rpc@1 to /home/adib/.config/discord/0.0.72/modules/pending/discord_rpc-1.zip: 100%
+2024-11-01T04:09:40.981Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-11-01T04:09:40.981Z [Modules] Installing discord_rpc@1 from /home/adib/.config/discord/0.0.72/modules/pending/discord_rpc-1.zip
+2024-11-01T04:09:40.989Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-11-01T05:09:29.049Z [Modules] Checking for host updates.
+2024-11-01T05:09:29.575Z [Modules] Host is up to date.
+2024-11-01T05:09:29.575Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T05:09:29.616Z [Modules] No module updates available.
+2024-11-01T06:09:29.024Z [Modules] Checking for host updates.
+2024-11-01T06:09:29.545Z [Modules] Host is up to date.
+2024-11-01T06:09:29.545Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T06:09:29.588Z [Modules] No module updates available.
+2024-11-01T07:09:29.023Z [Modules] Checking for host updates.
+2024-11-01T07:09:29.538Z [Modules] Host is up to date.
+2024-11-01T07:09:29.538Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T07:09:29.620Z [Modules] No module updates available.
+2024-11-01T08:09:29.024Z [Modules] Checking for host updates.
+2024-11-01T08:09:32.435Z [Modules] Host is up to date.
+2024-11-01T08:09:32.435Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T08:09:32.562Z [Modules] No module updates available.
+2024-11-01T09:09:29.023Z [Modules] Checking for host updates.
+2024-11-01T09:09:29.539Z [Modules] Host is up to date.
+2024-11-01T09:09:29.539Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-11-01T09:09:29.573Z [Modules] No module updates available.
