@@ -1,0 +1,18 @@
+2024/11/10-15:02:05.840 fb8 Reusing MANIFEST /home/adib/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2024/11/10-15:02:06.242 fb8 Recovering log #11
+2024/11/10-15:02:06.440 fb8 Reusing old log /home/adib/.config/YouTube Music/Local Storage/leveldb/000011.log 
+2024/11/10-15:06:08.847 fb9 Level-0 table #15: started
+2024/11/10-15:06:08.863 fb9 Level-0 table #15: 13441 bytes OK
+2024/11/10-15:06:08.889 fb9 Delete type=0 #11
+2024/11/10-16:28:08.847 fb9 Level-0 table #17: started
+2024/11/10-16:28:08.862 fb9 Level-0 table #17: 13445 bytes OK
+2024/11/10-16:28:08.887 fb9 Delete type=0 #14
+2024/11/10-16:28:08.887 fb9 Compacting 4@0 + 1@1 files
+2024/11/10-16:28:08.904 fb9 Generated table #18@0: 8 keys, 931 bytes
+2024/11/10-16:28:08.904 fb9 Compacted 4@0 + 1@1 files => 931 bytes
+2024/11/10-16:28:08.929 fb9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/10-16:28:08.930 fb9 Delete type=2 #12
+2024/11/10-16:28:08.930 fb9 Delete type=2 #15
+2024/11/10-16:28:08.930 fb9 Delete type=2 #8
+2024/11/10-16:28:08.930 fb9 Delete type=2 #17
+2024/11/10-16:28:08.930 fb9 Delete type=2 #10
