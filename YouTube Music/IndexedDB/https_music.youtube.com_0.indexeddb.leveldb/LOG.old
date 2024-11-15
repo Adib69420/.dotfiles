@@ -1,12 +1,21 @@
-2024/11/10-08:18:19.633 3ef Reusing MANIFEST /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/10-08:18:19.633 3ef Recovering log #29
-2024/11/10-08:18:20.025 3ef Reusing old log /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000029.log 
-2024/11/10-08:18:42.102 3ef Level-0 table #34: started
-2024/11/10-08:18:42.136 3ef Level-0 table #34: 1892711 bytes OK
-2024/11/10-08:18:42.162 3ef Delete type=0 #29
-2024/11/10-08:23:36.661 3ee Compacting 1@1 + 1@2 files
-2024/11/10-08:23:36.676 3ee Generated table #35@1: 736 keys, 45865 bytes
-2024/11/10-08:23:36.676 3ee Compacted 1@1 + 1@2 files => 45865 bytes
-2024/11/10-08:23:36.701 3ee compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/10-08:23:36.701 3ee Delete type=2 #31
-2024/11/10-08:23:36.701 3ee Delete type=2 #34
+2024/11/15-06:47:54.976 885 Reusing MANIFEST /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-06:47:54.976 885 Recovering log #96
+2024/11/15-06:47:55.340 885 Reusing old log /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000096.log 
+2024/11/15-06:53:52.642 874 Level-0 table #101: started
+2024/11/15-06:53:52.676 874 Level-0 table #101: 1491077 bytes OK
+2024/11/15-06:53:52.701 874 Delete type=0 #96
+2024/11/15-07:02:58.678 874 Compacting 1@1 + 1@2 files
+2024/11/15-07:02:58.897 874 Generated table #102@1: 1502 keys, 56248 bytes
+2024/11/15-07:02:58.897 874 Compacted 1@1 + 1@2 files => 56248 bytes
+2024/11/15-07:02:58.922 874 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/15-07:02:58.922 874 Delete type=2 #101
+2024/11/15-07:02:58.922 874 Delete type=2 #98
+2024/11/15-09:57:15.965 874 Level-0 table #104: started
+2024/11/15-09:57:16.030 874 Level-0 table #104: 1837447 bytes OK
+2024/11/15-09:57:16.056 874 Delete type=0 #100
+2024/11/15-10:01:47.396 874 Compacting 1@1 + 1@2 files
+2024/11/15-10:01:47.418 874 Generated table #105@1: 1787 keys, 70378 bytes
+2024/11/15-10:01:47.418 874 Compacted 1@1 + 1@2 files => 70378 bytes
+2024/11/15-10:01:47.443 874 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/15-10:01:47.444 874 Delete type=2 #104
+2024/11/15-10:01:47.444 874 Delete type=2 #102

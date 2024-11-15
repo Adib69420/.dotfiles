@@ -1626,11 +1626,11 @@
         "lastActiveWindow": {
             "backupPath": "/home/adib/.config/VSCodium/Backups/1730991039312",
             "uiState": {
-                "mode": 0,
-                "x": 3,
-                "y": 37,
-                "width": 1914,
-                "height": 1040
+                "mode": 1,
+                "x": 2332,
+                "y": 39,
+                "width": 945,
+                "height": 1032
             }
         },
         "openedWindows": []

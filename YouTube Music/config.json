@@ -1,14 +1,14 @@
 {
 	"window-size": {
-		"width": 1360,
-		"height": 728
+		"width": 1366,
+		"height": 768
 	},
-	"window-maximized": false,
+	"window-maximized": true,
 	"window-position": {
-		"x": 3,
-		"y": 37
+		"x": 0,
+		"y": 0
 	},
-	"url": "https://music.youtube.com/watch?v=k0-qax43Qjc&list=RDAMVMdUH9RZjusWg&index=0",
+	"url": "https://music.youtube.com/watch?v=R5dphZnPb9A&list=RDAMVMR5dphZnPb9A&index=0",
 	"options": {
 		"tray": false,
 		"appVisible": true,
@@ -62,7 +62,7 @@
 		"adblocker": {
 			"enabled": true,
 			"cache": true,
-			"blocker": "Ad speedup",
+			"blocker": "In player",
 			"additionalBlockLists": [],
 			"disableDefaultLists": false
 		},
@@ -83,7 +83,7 @@
 			"enabled": true
 		},
 		"tuna-obs": {
-			"enabled": false
+			"enabled": true
 		},
 		"visualizer": {
 			"enabled": false,
