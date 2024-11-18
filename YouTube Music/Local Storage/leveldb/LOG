@@ -1,3 +1,6 @@
-2024/11/15-13:58:40.586 17b20 Reusing MANIFEST /home/adib/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
-2024/11/15-13:58:40.590 17b20 Recovering log #91
-2024/11/15-13:58:40.590 17b20 Reusing old log /home/adib/.config/YouTube Music/Local Storage/leveldb/000091.log 
+2024/11/18-08:46:07.750 1eeb Reusing MANIFEST /home/adib/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2024/11/18-08:46:08.059 1eeb Recovering log #120
+2024/11/18-08:46:08.295 1eeb Reusing old log /home/adib/.config/YouTube Music/Local Storage/leveldb/000120.log 
+2024/11/18-08:56:10.796 1eec Level-0 table #124: started
+2024/11/18-08:56:10.814 1eec Level-0 table #124: 16464 bytes OK
+2024/11/18-08:56:10.841 1eec Delete type=0 #120

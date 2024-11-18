@@ -90,7 +90,7 @@ _G.packer_plugins = {
     url = "https://github.com/catppuccin/nvim"
   },
   ["cheeky-snippets.nvim"] = {
-    config = { "\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\ball\2\blua\2\18supercollider\2\rmarkdown\2\ncmake\2\basm\2\bcpp\2\nsetup\vcheeky\frequire\0" },
+    config = { "\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\blua\2\rmarkdown\2\ncmake\2\basm\2\bcpp\2\ball\2\18supercollider\2\nsetup\vcheeky\frequire\0" },
     loaded = true,
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/cheeky-snippets.nvim",
     url = "https://github.com/madskjeldgaard/cheeky-snippets.nvim"
@@ -221,6 +221,11 @@ _G.packer_plugins = {
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/onenord.nvim",
     url = "https://github.com/rmehri01/onenord.nvim"
   },
+  ["oxocarbon.nvim"] = {
+    loaded = true,
+    path = "/home/adib/.local/share/nvim/site/pack/packer/start/oxocarbon.nvim",
+    url = "https://github.com/nyoom-engineering/oxocarbon.nvim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -259,14 +264,14 @@ _G.packer_plugins = {
 }
 
 time([[Defining packer_plugins]], false)
+-- Config for: cheeky-snippets.nvim
+time([[Config for cheeky-snippets.nvim]], true)
+try_loadstring("\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\blua\2\rmarkdown\2\ncmake\2\basm\2\bcpp\2\ball\2\18supercollider\2\nsetup\vcheeky\frequire\0", "config", "cheeky-snippets.nvim")
+time([[Config for cheeky-snippets.nvim]], false)
 -- Config for: oil.nvim
 time([[Config for oil.nvim]], true)
 try_loadstring("\27LJ\2\n1\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\boil\frequire\0", "config", "oil.nvim")
 time([[Config for oil.nvim]], false)
--- Config for: cheeky-snippets.nvim
-time([[Config for cheeky-snippets.nvim]], true)
-try_loadstring("\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\ball\2\blua\2\18supercollider\2\rmarkdown\2\ncmake\2\basm\2\bcpp\2\nsetup\vcheeky\frequire\0", "config", "cheeky-snippets.nvim")
-time([[Config for cheeky-snippets.nvim]], false)
 
 _G._packer.inside_compile = false
 if _G._packer.needs_bufread == true then

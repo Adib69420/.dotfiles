@@ -1,3 +1,12 @@
-2024/11/15-13:58:41.316 17b32 Reusing MANIFEST /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/15-13:58:41.316 17b32 Recovering log #103
-2024/11/15-13:58:41.320 17b32 Reusing old log /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000103.log 
+2024/11/18-08:46:11.201 1eeb Reusing MANIFEST /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/18-08:46:11.201 1eeb Recovering log #129
+2024/11/18-08:46:11.478 1eeb Reusing old log /home/adib/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000129.log 
+2024/11/18-10:03:01.821 1eec Level-0 table #134: started
+2024/11/18-10:03:01.848 1eec Level-0 table #134: 1400992 bytes OK
+2024/11/18-10:03:01.874 1eec Delete type=0 #129
+2024/11/18-10:27:16.128 1eec Compacting 1@1 + 1@2 files
+2024/11/18-10:27:16.144 1eec Generated table #135@1: 1934 keys, 72232 bytes
+2024/11/18-10:27:16.144 1eec Compacted 1@1 + 1@2 files => 72232 bytes
+2024/11/18-10:27:16.169 1eec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/18-10:27:16.169 1eec Delete type=2 #134
+2024/11/18-10:27:16.169 1eec Delete type=2 #131

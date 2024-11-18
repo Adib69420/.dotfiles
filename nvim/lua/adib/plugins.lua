@@ -100,6 +100,7 @@ use  "olrtg/nvim-emmet"
 use "EdenEast/nightfox.nvim" -- Packer
 use "echasnovski/mini.nvim"
 use 'xiyaowong/transparent.nvim'
+use {'nyoom-engineering/oxocarbon.nvim'}
 use({
 	"L3MON4D3/LuaSnip",
 	-- follow latest release.

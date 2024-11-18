@@ -1359,3 +1359,26 @@
 [2024-11-01 15:09:33.726] [warn]  The resource https://discordapp.com/assets/8234e0a75aa9afb205bd.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
 [2024-11-01 15:09:40.047] [info]  [LoginQRSocket] [17998973ms] heartbeat timeout, reconnecting.
 [2024-11-01 15:09:40.047] [error] [LoginQRSocket] Could not complete QR code login, trying to restart with a new QR code.
+[2024-11-15 18:05:56.648] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:05:57.227] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:05:57.227] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:06:00.606] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-15 18:06:00.698] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344613, Version Hash: 5ac3c2d7e8946c57580bee34ce46500064336e0c
+[2024-11-15 18:06:00.853] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, build: null
+[2024-11-15 18:06:00.896] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-15 18:06:00.909] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-15 18:06:00.909] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:06:22.192] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-15 18:06:22.382] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:06:22.393] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:06:22.474] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 18:06:22.802] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-15 18:06:22.803] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-15 18:06:23.147] [info]  [LoginQRSocket] [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2
+[2024-11-15 18:06:23.622] [info]  [LoginQRSocket] [476ms] got hello, auth timeout=345725ms
+[2024-11-15 18:06:23.683] [info]  [LoginQRSocket] [537ms] connected, handshaking with fingerprint: o-0t4bEP8jCGr860g5iNm15IU2Qa6BD_NI1lCF8vbWY
+[2024-11-15 18:06:23.971] [info]  [LoginQRSocket] [825ms] computed nonce proof
+[2024-11-15 18:06:24.255] [info]  [LoginQRSocket] [1109ms] handshake complete awaiting remote auth.
+[2024-11-15 18:06:25.885] [warn]  Window state not initialized window-1
+[2024-11-15 18:06:25.886] [warn]  Window state not initialized window-1
+[2024-11-15 18:06:25.886] [warn]  Window state not initialized window-1
