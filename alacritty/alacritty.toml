@@ -1,19 +1,19 @@
 general.live_config_reload = true
 
-[window]
-decorations = "buttonless"
-dynamic_padding = false
-opacity = 0.7
+[window] 
+decorations = "buttonless" 
+dynamic_padding = false 
+opacity = 0.75
 
 [window.padding]
-x = 10 
+x = 10
 y = 10
 
 [font]
-size = 11.5
+size = 12
 
 [font.normal]
-family = "Monaco"
+family = "ComicMono Nerd Font"
 style = "Regular"
 
 # Oxocarbon Color Scheme for Alacritty in TOML format
@@ -60,35 +60,69 @@ style = "Regular"
 
 # Upstream: github.com/bluz71/vim-moonfly-colors
 
+# [colors.bright]
+# black = "#949494"
+# blue = "#74b2ff"
+# cyan = "#85dc85"
+# green = "#36c692"
+# magenta = "#ae81ff"
+# red = "#ff5189"
+# white = "#e4e4e4"
+# yellow = "#c6c684"
+
+# [colors.cursor]
+# cursor = "#8e8e8e"
+# text = "#080808"
+
+# [colors.normal]
+# black = "#323437"
+# blue = "#80a0ff"
+# cyan = "#79dac8"
+# green = "#8cc85f"
+# magenta = "#cf87e8"
+# red = "#ff5454"
+# white = "#c6c6c6"
+# yellow = "#e3c78a"
+
+# [colors.primary]
+# background = "#080808"
+# bright_foreground = "#eeeeee"
+# foreground = "#bdbdbd"
+
+# [colors.selection]
+# background = "#b2ceee"
+# text = "#080808"
+####################
 [colors.bright]
-black = "#949494"
-blue = "#74b2ff"
-cyan = "#85dc85"
-green = "#36c692"
-magenta = "#ae81ff"
-red = "#ff5189"
-white = "#e4e4e4"
-yellow = "#c6c684"
+black = "#2c2b2a"
+blue = "#5389c5"
+cyan = "#ebc587"
+green = "#42824a"
+magenta = "#e795a5"
+red = "#b33323"
+white = "#ffffff"
+yellow = "#c75a22"
 
 [colors.cursor]
-cursor = "#8e8e8e"
-text = "#080808"
+cursor = "#c9c9c9"
+text = "#141414"
 
 [colors.normal]
-black = "#323437"
-blue = "#80a0ff"
-cyan = "#79dac8"
-green = "#8cc85f"
-magenta = "#cf87e8"
-red = "#ff5454"
-white = "#c6c6c6"
-yellow = "#e3c78a"
+black = "#191918"
+blue = "#206ec5"
+cyan = "#ac9166"
+green = "#587744"
+magenta = "#864651"
+red = "#b34538"
+white = "#f1eee7"
+yellow = "#d08949"
 
 [colors.primary]
-background = "#080808"
-bright_foreground = "#eeeeee"
-foreground = "#bdbdbd"
+background = "#141414"
+bright_foreground = "#ffffff"
+foreground = "#c9c9c9"
 
 [colors.selection]
-background = "#b2ceee"
-text = "#080808"
+background = "#587744"
+text = "#f1eee7"
+
