@@ -49,8 +49,8 @@ local function save_profiles(threshold)
 end
 
 time([[Luarocks path setup]], true)
-local package_path_str = "/home/adib/.cache/nvim/packer_hererocks/2.1.1727870382/share/lua/5.1/?.lua;/home/adib/.cache/nvim/packer_hererocks/2.1.1727870382/share/lua/5.1/?/init.lua;/home/adib/.cache/nvim/packer_hererocks/2.1.1727870382/lib/luarocks/rocks-5.1/?.lua;/home/adib/.cache/nvim/packer_hererocks/2.1.1727870382/lib/luarocks/rocks-5.1/?/init.lua"
-local install_cpath_pattern = "/home/adib/.cache/nvim/packer_hererocks/2.1.1727870382/lib/lua/5.1/?.so"
+local package_path_str = "/home/adib/.cache/nvim/packer_hererocks/2.1.1731601260/share/lua/5.1/?.lua;/home/adib/.cache/nvim/packer_hererocks/2.1.1731601260/share/lua/5.1/?/init.lua;/home/adib/.cache/nvim/packer_hererocks/2.1.1731601260/lib/luarocks/rocks-5.1/?.lua;/home/adib/.cache/nvim/packer_hererocks/2.1.1731601260/lib/luarocks/rocks-5.1/?/init.lua"
+local install_cpath_pattern = "/home/adib/.cache/nvim/packer_hererocks/2.1.1731601260/lib/lua/5.1/?.so"
 if not string.find(package.path, package_path_str, 1, true) then
   package.path = package.path .. ';' .. package_path_str
 end
@@ -90,7 +90,7 @@ _G.packer_plugins = {
     url = "https://github.com/catppuccin/nvim"
   },
   ["cheeky-snippets.nvim"] = {
-    config = { "\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\blua\2\rmarkdown\2\ncmake\2\basm\2\bcpp\2\ball\2\18supercollider\2\nsetup\vcheeky\frequire\0" },
+    config = { "\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\bcpp\2\18supercollider\2\rmarkdown\2\ncmake\2\basm\2\blua\2\ball\2\nsetup\vcheeky\frequire\0" },
     loaded = true,
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/cheeky-snippets.nvim",
     url = "https://github.com/madskjeldgaard/cheeky-snippets.nvim"
@@ -119,6 +119,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/adib/.local/share/nvim/site/pack/packer/start/gruv-vsassist.nvim",
     url = "https://github.com/bartekprtc/gruv-vsassist.nvim"
+  },
+  ["gruvbox-material"] = {
+    loaded = true,
+    path = "/home/adib/.local/share/nvim/site/pack/packer/start/gruvbox-material",
+    url = "https://github.com/sainnhe/gruvbox-material"
   },
   ["lsp-zero.nvim"] = {
     loaded = true,
@@ -266,7 +271,7 @@ _G.packer_plugins = {
 time([[Defining packer_plugins]], false)
 -- Config for: cheeky-snippets.nvim
 time([[Config for cheeky-snippets.nvim]], true)
-try_loadstring("\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\blua\2\rmarkdown\2\ncmake\2\basm\2\bcpp\2\ball\2\18supercollider\2\nsetup\vcheeky\frequire\0", "config", "cheeky-snippets.nvim")
+try_loadstring("\27LJ\2\n‡\1\0\0\5\0\6\0\t6\0\0\0'\2\1\0B\0\2\0029\1\2\0005\3\4\0005\4\3\0=\4\5\3B\1\2\1K\0\1\0\nlangs\1\0\1\nlangs\0\1\0\a\bcpp\2\18supercollider\2\rmarkdown\2\ncmake\2\basm\2\blua\2\ball\2\nsetup\vcheeky\frequire\0", "config", "cheeky-snippets.nvim")
 time([[Config for cheeky-snippets.nvim]], false)
 -- Config for: oil.nvim
 time([[Config for oil.nvim]], true)
